@@ -1,5 +1,26 @@
-# SOMMAIRE : TUTORIALS FR XAVKI
+# SOMMAIRE : TUTORIALS XAVKI
 
+## VAGRANT TUTORIALS - KUBESPRAY
+  - [VAGRANT K8S - OBJECTIFS ET PRINCIPES](https://www.youtube.com/watch?v=2P8jQIN5hr0)
+  - [VAGRANT K8S - SQUELETTE DU VAGRANTFILE](https://www.youtube.com/watch?v=5hmsWOmI2kY)
+  - [VAGRANT K8S - 3. UTILISER UN PROMPT ET LES CONDITIONS](https://www.youtube.com/watch?v=nS5EMSkzZh0)
+  - [VAGRANT K8S - 4. INSTALLATION HAPROXY](https://www.youtube.com/watch?v=ZoZNLspYnDg)
+  - [VAGRANT K8S - 5. INSTALLATION KUBESPRAY](https://www.youtube.com/watch?v=POvr_egl2iE)
+  - [VAGRANT K8S - 6. INSTALLATION NFS ET WORDPRESS PUIS RUN VAGRANT](https://www.youtube.com/watch?v=jpgqoClGtP4)
+
+## TUTORIALS LOKI FR
+  - [LOKI - 1. INTRODUCTION](https://www.youtube.com/watch?v=Tjwe1KfTYT8)
+  - [LOKI - 2. INSTALLATION DU SERVEUR LOKI](https://www.youtube.com/watch?v=pAhC2e4iRt8)
+  - [LOKI - 3. INSTALLATION DE PROMTAIL & DATASOURCE GRAFANA](https://www.youtube.com/watch?v=9YYBEfhHYN8)
+  - [LOKI - 4. INSTALLATION ET UTILISATION DE LOGCLI](https://www.youtube.com/watch?v=LkXv8h_pMhk)
+  - [LOKI - 5. GUI PROMTAIL & ASTUCE GRAFANA (GRAPHES LOKI)](https://www.youtube.com/watch?v=uKSp4AOB2Xg)
+
+## TUTORIALS KVM - DEBUTANT
+  - [KVM - 1. INTRODUCTION (QEMU, LIBVIRT...)](https://www.youtube.com/watch?v=l-30b8oHyGQ)
+  - [KVM - 2. INSTALLATION](https://www.youtube.com/watch?v=f8W_Zre54XA)
+  - [KVM - 3. VIRT MANAGER : PREMIERE MACHINE VIRTUELLE](https://www.youtube.com/watch?v=8krE9UaUylM)
+  - [KVM - 4. VIRT INSTALL : PREMIERE VM VIA LA CLI](https://www.youtube.com/watch?v=pWf-U8Q7gxI)
+  - [KVM - 5. VIRSH : PREMIERE MACHINE EN XML](https://www.youtube.com/watch?v=O6uJtSZW280)
 
 ## TUTORIALS PACKER - DEBUTANT
   - [PACKER - 1. INTRODUCTION](https://www.youtube.com/watch?v=Im0LxTzKHZA)
@@ -12,7 +33,7 @@
   - [LA PATIENCE - MINDSET #2](https://www.youtube.com/watch?v=UutXtCa6fGM)
   - [APPRENDRE && COMPRENDRE - MINDSET #3](https://www.youtube.com/watch?v=UtmsB5WJ-dY)
 
-## TERRAFORM - DEBUTANT
+## TUTORIALS TERRAFORM - DEBUTANT
   - [TERRAFORM - 1. INTRODUCTION ET PRESENTATION](https://www.youtube.com/watch?v=_6AITxe5iVc)
   - [TERRAFORM - 2. INSTALLATION ET HELLO WORLD](https://www.youtube.com/watch?v=7gtzumVHZtE)
   - [TERRAFORM - 3. DEFINITIONS ET NOTIONS](https://www.youtube.com/watch?v=MHKVkNSAJWc)
@@ -32,13 +53,18 @@
   - [TERRAFORM - 18. KUBERNETES : INTRODUCTION & PREMIER POD](https://www.youtube.com/watch?v=onfZmhADZMg)
   - [TERRAFORM - 18. KUBERNETES : INTRODUCTION & PREMIER POD](https://www.youtube.com/watch?v=onfZmhADZMg)
   - [TERRAFORM - 19. KUBERNETES : NAMESPACE ET SERVICE](https://www.youtube.com/watch?v=d6Ee9RYJnbA)
-  - [TERRAFORM - 20. KUBERNETES : PREMIER INGRES ET SERVICE EXTERNALNAME](https://www.youtube.com/watch?v=B2_lYEPbyPY)
-  - [TERRAFORM - 20. KUBERNETES : PREMIER INGRES ET SERVICE EXTERNALNAME](https://www.youtube.com/watch?v=B2_lYEPbyPY)
+  - [TERRAFORM - 20. KUBERNETES : PREMIER INGRESS ET SERVICE EXTERNALNAME](https://www.youtube.com/watch?v=B2_lYEPbyPY)
+  - [TERRAFORM - 20. KUBERNETES : PREMIER INGRESS ET SERVICE EXTERNALNAME](https://www.youtube.com/watch?v=B2_lYEPbyPY)
   - [TERRAFORM - 21. KUBERNETES/WORDPRESS : INSTALLATION PV ET PVC](https://www.youtube.com/watch?v=oCHWKTsLEt8)
   - [TERRAFORM - 22. KUBERNETES/WORDPRESS : FAIRE LE DEPLOYMENT MYSQL](https://www.youtube.com/watch?v=NzUll9t2CI8)
   - [TERRAFORM - 23. KUBERNETES/WORDPRESS : ECRIRE LE DEPLOYMENT WORDPRESS](https://www.youtube.com/watch?v=mxvJio6AIis)
   - [TERRAFORM - 24. KUBERNETES/WORDPRESS : INGRESS, OUTPUTS ET ORGANISATION DES FICHIERS](https://www.youtube.com/watch?v=buggU-OaYwk)
   - [TERRAFORM - 25. KUBERNETES/WORDPRESS : CREER UN MODULE POUR FACTORISER - EX: PV/PVC](https://www.youtube.com/watch?v=71myWZsAV2Q)
+  - [TERRAFORM - 26. INSTALLATION DE KVM](https://www.youtube.com/watch?v=VlH-Fg07_dg)
+  - [TERRAFORM - 27. PROVIDER KVM : PREMIERE VM (LIBVIRT)](https://www.youtube.com/watch?v=uAMzDa_0-pE)
+  - [TERRAFORM - 28. KVM : UTILISER CLOUD INIT EN POST-INSTALLATION](https://www.youtube.com/watch?v=RQWNXESaLn8)
+  - [TERRAFORM - 29. KVM : FIXER DES IP STATIQUES VIA LES MAC ADDRESS](https://www.youtube.com/watch?v=baeN_AwvwPg)
+  - [TERRAFORM - 30. CLOUD INIT : IP STATIQUE VIA LA CONF DES INTERFACES](https://www.youtube.com/watch?v=yTdAy5zaqUY)
 
 ## RH ET CARRIERES
   - [RH. 1 - COMMENT NEGOCIER UN PLUS GROS SALAIRE A L'EMBAUCHE ?](https://www.youtube.com/watch?v=TSG2F2k5g0E)
@@ -53,6 +79,15 @@
   - [ACTIVE DIRECTORY - 5. AUTORISATIONS DE PARTAGE](https://www.youtube.com/watch?v=bGJp_skp25M)
   - [AD - 6. AUTORISATIONS DE PARTAGE SUITE](https://www.youtube.com/watch?v=iIXnu15rPMU)
   - [AD - 6. AUTORISATIONS DE PARTAGE SUITE](https://www.youtube.com/watch?v=iIXnu15rPMU)
+
+## Tutos de Jérôme Bezet-Torres
+  - [LES TUTOS DE JEROME BEZET-TORRES : INTRODUCTION](https://www.youtube.com/watch?v=8T-PO3PtbjM)
+  - [ACTIVE DIRECTORY / POWERSHELL - 1. INTRODUCTION ET PRESENTATION](https://www.youtube.com/watch?v=o_ex8ZdAVoI)
+  - [ACTIVE DIRECTORY / POWERSHELL - 1. INTRODUCTION PARTIE 2](https://www.youtube.com/watch?v=knu2LhGydhM)
+  - [ACTIVE DIRECTORY - 2. INSTALLATION GRAPHIQUE ET POWERSHELL](https://www.youtube.com/watch?v=605JtJC_Lgo)
+  - [ACTIVE DIRECTORY - 3. LES OBJETS](https://www.youtube.com/watch?v=RaPENYRF5XM)
+  - [ACTIVE DIRECTORY / POWERSHELL - 4. OU : LES UNITES D'ORGANISATION](https://www.youtube.com/watch?v=aD9y1fR6Bw4)
+  - [ACTIVE DIRECTORY - 5. AUTORISATIONS DE PARTAGE](https://www.youtube.com/watch?v=bGJp_skp25M)
 
 ## AWS - SAISON 2
   - [AWS 2.1 - IAM : SECURITE MFA, GROUPES, ROLES, PASSWORD](https://www.youtube.com/watch?v=mzGQd1DdSoU)
@@ -87,16 +122,16 @@
   - [CASSANDRA - 12. CLUSTER AVEC DOCKER-COMPOSE](https://www.youtube.com/watch?v=Djdj1v3ntuM)
   - [CASSANDRA - 13. LE CONSISTENCY LEVEL ET LE QUORUM (PRINCIPES ET EXEMPLE)](https://www.youtube.com/watch?v=C8tkFFiHKE8)
   - [CASSANDRA - 14. TABLE : IMPORTANCE DU DATA MODELING (WHERE, GROUP BY)](https://www.youtube.com/watch?v=JPaG9Ji4Q1Y)
-  - [CASSANDRA - 14. TABLE : IMPORTANCE DU DATA MODELING (WHERE, GROUP BY)](https://www.youtube.com/watch?v=JPaG9Ji4Q1Y)
   - [CASSANDRA - 15. TABLE : TIMESTAMP ET TTL](https://www.youtube.com/watch?v=Fb7d4bItBQ4)
 
 ## HELM - INITIATION
   - [KUBERNETES - 53. HELM : INTRODUCTION ET INSTALLATION](https://www.youtube.com/watch?v=W3nfFUdgLvU)
   - [KUBERNETES - 54. HELM : PREMIER CHART (DEPLOYMENT, SERVICE, INGRESS)](https://www.youtube.com/watch?v=Ncqh6aIfD48)
   - [HELM : REVISIONS ET ROLLBACK - 55 #KUBERNETES](https://www.youtube.com/watch?v=OwaUA2mdIAQ)
-  - [K8S - 56. HELM : INSTALLATION WORDPRESS SUR NFS](https://www.youtube.com/watch?v=KUjt_3eQt2Y)
+  - [K8S - 56. #HELM : INSTALLATION #WORDPRESS SUR NFS](https://www.youtube.com/watch?v=KUjt_3eQt2Y)
 
 ## ACTUALITES DEVOPS
+  - [ACTUS DEVOPS : KUBETAP, LITMUS, SHELL OPERATOR, ENV0, GRAFANA](https://www.youtube.com/watch?v=owvOpqIo1aE)
   - [ACTU DEVOPS : GORSAIR, KUBEBOX, PUSHRM, TFERDINAND, FORMATION NGINX, ARKADE, OPENDISTRO...](https://www.youtube.com/watch?v=hMUadrFeeIw)
   - [ACTUS DEVOPS - MITOGEN, BLOG BARBU, PYTHON, SUJETS A VENIR](https://www.youtube.com/watch?v=Azv6vZoex8I)
   - [ACTUS DEVOPS : BUILDAH, CLOUD SOUVERAIN ??, MICROK8S, HCP, LANDO](https://www.youtube.com/watch?v=4fKdtDFumEY)
@@ -127,7 +162,6 @@
   - [ELK - 18. LOGSTASH : INPUT FILE](https://www.youtube.com/watch?v=M5MxzL2uQ4o)
   - [ELK - 19. LOGSTASH : INPUT PLUGIN STDIN ET BEAT](https://www.youtube.com/watch?v=IRS8XWCbOe8)
   - [ELK - 20. LOGSTASH : INPUT PLUGIN EXEC ET TCP](https://www.youtube.com/watch?v=gQnkKR9w24w)
-  - [ELK - 21. LOGSTASH : INPUT PLUGIN ELASTICSEARCH](https://www.youtube.com/watch?v=WJVydGRFjrU)
   - [ELK - 21. LOGSTASH : INPUT PLUGIN ELASTICSEARCH](https://www.youtube.com/watch?v=WJVydGRFjrU)
   - [ELK - 22. LOGSTASH : INPUT PLUGIN DE TYPE JDBC - EX : POSTGRESQL](https://www.youtube.com/watch?v=TyixiRWJGmw)
   - [ELK - 23. LOGSTASH : INPUT PLUGIN TWITTER](https://www.youtube.com/watch?v=PCvVCjC-wp0)
@@ -182,7 +216,7 @@
   - [ELK - 73. ELASTICSEARCH : FAITES VOS PREMIERES RECHERCHES](https://www.youtube.com/watch?v=nlLVKJNwQmk)
   - [ELK - 74. ELASTICSEARCH : MISE A JOUR DE CLUSTER (ROLLING UPGRADE)](https://www.youtube.com/watch?v=uWuTw_yP9x4)
   - [ELK - 75. ELASTICSEARCH : SAUVEGARDER ET RESTAURER INDEX ET CLUSTER](https://www.youtube.com/watch?v=uGS3zxWqy2Y)
-  - [ELK - 76. ELASTICSEARCH : INSERTION BUL ET GEO_POINT (EX : COMMUNES FRANCAISES)](https://www.youtube.com/watch?v=Zpszt2fbjFQ)
+  - [ELK - 76. ELASTICSEARCH : INSERTION BULK ET GEO_POINT (EX : COMMUNES FRANCAISES)](https://www.youtube.com/watch?v=Zpszt2fbjFQ)
   - [ELK - 77. ELASTICSEARCH : SHARDING, PRINCIPES ET RECOMMANDATIONS](https://www.youtube.com/watch?v=nmNmInuY9sI)
   - [ELK - 78. ELASTICSEARCH : COMMENT REINDEXER ? UTILISER UN ALIAS](https://www.youtube.com/watch?v=RMe1RdOX4dE)
   - [ELK - 79. ELASTICSEARCH CURATOR : INTRODUCTION ET INSTALLATION](https://www.youtube.com/watch?v=DmBTUj14TRo)
@@ -190,11 +224,27 @@
   - [ELK - 81. CURATOR : SNAPSHOT ET RESTAURATION DE CLUSTER ET INDEX ES (EX. SUR NFS)](https://www.youtube.com/watch?v=Cob6l2rTHeM)
   - [ELK - 82. CURATOR : CREATION ET SUPPRESSION D'INDEX ELASTICSEARCH](https://www.youtube.com/watch?v=kQbws4EMr_0)
   - [ELK - 83. OPENDISTRO : INTRODUCTION ET INSTALLATION ES (SECURISE)](https://www.youtube.com/watch?v=NYyrSuy2wKg)
+  - [ELK - 84. OPENDISTRO : INSTALLATION DE KIBANA ET CHANGEMENT DE PASSWORD](https://www.youtube.com/watch?v=CecrJTbEQlI)
+  - [ELK - 85. OPENDISTRO : INSTALLATION EN CLUSTER](https://www.youtube.com/watch?v=qxWHxlJHmc8)
+  - [ELK - 86. OPENDISTRO : MISE EN PLACE DES ALERTES (EX: SLACK)](https://www.youtube.com/watch?v=oJ3pFAq8vHs)
+  - [ELK - 87. OPENDISTRO : LES REQUETES SQL DANS ELASTICSEARCH](https://www.youtube.com/watch?v=TFjCATEdGnk)
+  - [ELK - 88. OPENDISTRO : CONFIGURATION DE L'AUTHENTIFICATION LDAP](https://www.youtube.com/watch?v=ohI58NdeNp0)
+  - [ELK - 89. OPENDISTRO : CONFIGURER LES AUTORISATIONS ET PERMISSIONS LDAP](https://www.youtube.com/watch?v=fMbLGZaWBus)
+  - [ELK - 90. ANSIBLE : INSTALLATION D'UN CLUSTER ELASTICSEARCH](https://www.youtube.com/watch?v=_iFeywRUoGQ)
 
 ## LIVEKI
   - [LIVEKI #1 - Questions / Réponses](https://www.youtube.com/watch?v=XwcbxXlI0IM)
   - [LIVEKI #2 - Questions / Réponses](https://www.youtube.com/watch?v=T0CEtVeo3Xg)
   - [LIVEKI #3 - Questions / Réponses](https://www.youtube.com/watch?v=mFfz1L_sFhI)
+  - [LIVEKI #4 - Q/R ET VAGRANTISER UN KUBESPRAY](https://www.youtube.com/watch?v=3422RyFsSv8)
+
+## KrustyHack
+  - [Kubernetes The Hard Way : comment créer un cluster Kubernetes complet à la main "From Scratch"](https://www.youtube.com/watch?v=jGRKFHV6UUc)
+  - [AWS Lightsail : Installer Wordpress en 5 minutes](https://www.youtube.com/watch?v=BCnDT1ahnbI)
+  - [Security & Hacking: comment hacker Gmail malgré la 2FA avec Modlishka](https://www.youtube.com/watch?v=YruRqM0Y614)
+  - [Kubernetes : comment facilement déployer Kubernetes sur Google GKE - Expliqué de A à Z](https://www.youtube.com/watch?v=7h86sOfDaC4)
+  - [Kubernetes : Histoire et Origine de Kubernetes](https://www.youtube.com/watch?v=OYjQaVgxKe8)
+  - [Kubernetes : Démo rapide de Kubernetes External Secrets](https://www.youtube.com/watch?v=OEuAGQnRxhE)
 
 ## KUBESPRAY - INITIATION
   - [Kubernetes - 34. Kubespray : préparation des VM  (vagrantfile) | tutos fr](https://www.youtube.com/watch?v=kXzxGSYl7Ss)
@@ -285,6 +335,24 @@
   - [AWS - 20. EBS : LIFECYCLE MANAGER](https://www.youtube.com/watch?v=QKXRxi7MwfU)
   - [AWS - 1.21. EC2 : TERMINATE PROTECTION ET SHUTDOWN](https://www.youtube.com/watch?v=kbB8pnumq0M)
 
+## music
+  - [U2 - With Or Without You (U2 At The BBC)](https://www.youtube.com/watch?v=6DeDzsCGbsQ)
+  - [The Killers - Human (Royal Albert Hall 2009)](https://www.youtube.com/watch?v=9NK0rtySc6c)
+  - [The Cranberries - Animal Instinct (Official Music Video)](https://www.youtube.com/watch?v=ky4CdN0x58A)
+  - [Josh Groban - You Raise Me Up **Lyrics** [HD]](https://www.youtube.com/watch?v=uyEokxi2hWY)
+  - [U2 at Glastonbury 2011 - One,  Where The Streets Have No Name](https://www.youtube.com/watch?v=HOIbhXLEJdc)
+  - [Where The Streets Have No Name-U2+Lyrics](https://www.youtube.com/watch?v=WZU8qQQV_QA)
+  - [Best Of 2000's Retro Club Dance Mix | 2016 December |](https://www.youtube.com/watch?v=HGYJ3vjvJXE)
+  - [Best Songs Of The 1990s - Cream Dance Hits of 90's - In the Mix](https://www.youtube.com/watch?v=8-yELjoG294)
+  - [Best Of '00s Dance Music Mix](https://www.youtube.com/watch?v=G1xrw-8dJ1U)
+  - [Good Morning Peace Music 528Hz ➤ Destroy All Negativity - Start Your Day With New Positive Vibes](https://www.youtube.com/watch?v=J6_oHkSlouA)
+  - [Best of 70's 80's 90's Retro Club Party Dance Hits  Music Megamix 2017 Vol  3](https://www.youtube.com/watch?v=YUs0mV-NbZc)
+  - [Best of 90's Retro   Mashup   Club   Dance   Party   Remixes   Retro Megamix](https://www.youtube.com/watch?v=x1nnETq0UBQ)
+  - [Best Of 90's Club | Dance | Remixes | Bootleg | Mashup | Retro Megamix 2016 [Part 6]](https://www.youtube.com/watch?v=1z9gYEuXq8w)
+  - [Best Of 90's Club | Dance | Remixes | Bootleg | Mashup | Retro Megamix 2016 [Part 5]](https://www.youtube.com/watch?v=V6TSZKyxr1U)
+  - [Deep Focus Playlist 🔵 Study Music for Better Concentration and Memory with Binaural Beats](https://www.youtube.com/watch?v=X0Cv0l-j86Y)
+  - [The PERFECT 10 Minute Daily Posture Routine (FIX YOUR SIT!)](https://www.youtube.com/watch?v=RqcOCBb4arc)
+
 ## Arduino
   - [Arduino - 0. Un PROJET ? kit Elegoo](https://www.youtube.com/watch?v=EVjwGKcwPyQ)
 
@@ -303,7 +371,7 @@
   - [Python - 9. Les Conditions : if elif else...](https://www.youtube.com/watch?v=2kviV_ARWuE)
   - [Python - 10. Les boucles : for, while, break, continue](https://www.youtube.com/watch?v=LJzSQL1Hdbo)
   - [Python - 11. Les FONCTIONS partie 1](https://www.youtube.com/watch?v=Xy7uI-pD-DI)
-  - [Python - 12. Fonctions : args et kwargs](https://www.youtube.com/watch?v=JYnSjlCYp2w)
+  - [Python - 12. Fonctions : *args et **kwargs](https://www.youtube.com/watch?v=JYnSjlCYp2w)
   - [PYTHON - 13. Les modules](https://www.youtube.com/watch?v=X1v13DHFbX8)
   - [PYTHON - 14. Le path](https://www.youtube.com/watch?v=lMpqd-5Otaw)
   - [PYTHON - 15. PIP : gestionnaire de librairies](https://www.youtube.com/watch?v=DFWMFPxZpE4)
@@ -318,7 +386,6 @@
   - [PYTHON - 24. CLICK : INTRODUCTION & CLI (SYSADMIN)](https://www.youtube.com/watch?v=7LkqkeMq0Gg)
   - [PYTHON - 25. CLICK : COULEURS, PROMPT, FICHIER...](https://www.youtube.com/watch?v=MpdNDNTb9lE)
   - [PYTHON - 25. CLICK : COULEURS, PROMPT, FICHIER...](https://www.youtube.com/watch?v=MpdNDNTb9lE)
-  - [PYTHON - 26. LE MODULE PICKLE : VOS OBJETS EN BINAIRE](https://www.youtube.com/watch?v=a1mK13lGrQ8)
   - [PYTHON - 26. LE MODULE PICKLE : VOS OBJETS EN BINAIRE](https://www.youtube.com/watch?v=a1mK13lGrQ8)
   - [PYTHON - 27. API YOUTUBE : AUTHENTIFICATION (PATH, PICKLE, GOOGLE LIBS)](https://www.youtube.com/watch?v=bEnp8Qdi2Oc)
   - [PYTHON - 28. API YOUTUBE : RECUPERER LES COMMENTAIRES](https://www.youtube.com/watch?v=DHiTuMboqVI)
@@ -651,9 +718,10 @@
   - [KUBERNETES - 50. K3S : TRAEFIK COMME INGRESS CONTROLLER](https://www.youtube.com/watch?v=89k4FV6TTlQ)
   - [KUBERNETES - 51. K3S : GITLAB CI INTEGRATION ET RUNNER](https://www.youtube.com/watch?v=2bzM2SP7epw)
   - [KUB - 52. K3D : KUBERNETES DANS DOCKER](https://www.youtube.com/watch?v=f10VP3pXbsI)
+  - [KUBERNETES - 53. HELM : INTRODUCTION ET INSTALLATION](https://www.youtube.com/watch?v=W3nfFUdgLvU)
   - [KUBERNETES - 54. HELM : PREMIER CHART (DEPLOYMENT, SERVICE, INGRESS)](https://www.youtube.com/watch?v=Ncqh6aIfD48)
   - [HELM : REVISIONS ET ROLLBACK - 55 #KUBERNETES](https://www.youtube.com/watch?v=OwaUA2mdIAQ)
-  - [K8S - 56. HELM : INSTALLATION WORDPRESS SUR NFS](https://www.youtube.com/watch?v=KUjt_3eQt2Y)
+  - [K8S - 56. #HELM : INSTALLATION #WORDPRESS SUR NFS](https://www.youtube.com/watch?v=KUjt_3eQt2Y)
   - [KUBERNETES - 57. INSTALLER WORDPRESS SANS HELM ET SUR NFS](https://www.youtube.com/watch?v=wTyeq4p1tkM)
 
 ## Ansible - S02. Haproxy et Consul
@@ -736,6 +804,50 @@
   - [Netcat - 7. Netcat sans nc vers une socket TCP](https://www.youtube.com/watch?v=1E7jaNzjJHI)
   - [Netcat - 8. Différencier entrées et sorties](https://www.youtube.com/watch?v=dLDfSsmJbCE)
   - [Netcat - 9. Cryptcat pour chiffrer vos flux](https://www.youtube.com/watch?v=7JbhQ_ctNbQ)
+
+## Down
+  - [Cyber Security Full Course for Beginner](https://www.youtube.com/watch?v=U_P23SqJaDc)
+  - [LOADays 2018: From Boot to root, pentesting with Docker (Jean-François Maes)](https://www.youtube.com/watch?v=ZmgVhNcuCx4)
+  - [Persistance de Storage dans Kubernetes avec Rook (Stephane Beuret, David Blaskow)](https://www.youtube.com/watch?v=E_yKCS7POFI)
+  - [Kubernetes Volumes 2:  Understanding Persistent Volume (PV) and Persistent Volume Claim (PVC)](https://www.youtube.com/watch?v=OulmwTYTauI)
+  - [Kubernetes Volumes 1: emptydir, NFS, YAML, volumes, and intro to Persistent Volume Claims](https://www.youtube.com/watch?v=VB7vI9OT-WQ)
+  - [[ Kube 20 ] NFS Persistent Volume in Kubernetes Cluster](https://www.youtube.com/watch?v=to14wmNmRCI)
+  - [Building a Storage Cluster with Kubernetes [I] - Bassam Tabbara, Quantum Corp.](https://www.youtube.com/watch?v=6p0GKjrYzg4)
+  - [Postgres to Production in Seconds on Kubernetes](https://www.youtube.com/watch?v=AsJClipvuTQ)
+  - [Running Cassandra in Production on Kubernetes](https://www.youtube.com/watch?v=lnleY2IET4Y)
+  - [Getting started with Kubernetes Ingress](https://www.youtube.com/watch?v=19_SdVU4cdc)
+  - [Kubernetes architecture and concepts tutorial - Kubernetes Administration for beginners](https://www.youtube.com/watch?v=oFglQ50O_rU)
+  - [[#90] Multi-master Kubernetes w godzinę - Vladimir `vovcia' Mitiouchev](https://www.youtube.com/watch?v=aPH4jHsC7F8)
+  - [Rook Deep Dive – Bassam Tabbara, Tony Allen & Jared Watts, Upbound](https://www.youtube.com/watch?v=yknGKzJw7_k)
+  - [Adding a New Storage Provider to Rook - Jared Watts, Upbound](https://www.youtube.com/watch?v=Ke0vmhnV3lc)
+  - [HAProxy Sticky Sessions](https://www.youtube.com/watch?v=hbGaoRpBNWg)
+  - [The Evolution of Postgres High Availability](https://www.youtube.com/watch?v=ntVjVNnilX0)
+  - [HA Kubernetes Outside the Cloud](https://www.youtube.com/watch?v=gu3XJ5l2XxM)
+  - [Kubernetes Ingress: Your Router, Your Rules by Gerred Dillon, Deis](https://www.youtube.com/watch?v=Syw2PzRudIM)
+  - [Load Balancing Kubernetes Services with NGINX and NGINX Plus](https://www.youtube.com/watch?v=L7JZdyJ8qJQ)
+  - [Highly Available Kubernetes Clusters - Best Practices - Meaghan Kjelland & Karan Goel, Google](https://www.youtube.com/watch?v=NpT9RraqKdY)
+  - [High Availability Kubernetes on Bare Metal [A] - Muhammad Kamran Azeem & Henrik Høegh, Praqma](https://www.youtube.com/watch?v=ojZT1sKCGQs)
+  - [Introduction à Cassandra - 3](https://www.youtube.com/watch?v=ZrmzDMXoe2o)
+  - [Introduction à Cassandra - 2](https://www.youtube.com/watch?v=FlPH78xaFMY)
+  - [Docker, Kubernetes et Istio, c'est utile pour mon monolithe? (David Gageot)](https://www.youtube.com/watch?v=-Uilkj987AA)
+  - [Stop reinventing the wheel with Istio (Mete Atamel)](https://www.youtube.com/watch?v=DBZtKZ4FZtI)
+  - [9 Steps to Awesome with Kubernetes by Burr Sutter](https://www.youtube.com/watch?v=ZpbXSdzp_vo)
+  - [Chaos Engineering, principes et mise en application (B. Gakic)](https://www.youtube.com/watch?v=WTT2GJquAWY)
+  - [Better Canary Deploys with Kubernetes and Istio by Jason Yee](https://www.youtube.com/watch?v=R7gUDY_-cFo)
+  - [Making Microservices Micro with Istio Service Mesh by Ray Tsang](https://www.youtube.com/watch?v=AGztKw580yQ)
+  - [Gérer des applications nécessitant la persistance des données avec Kubernetes (F. Woerner)](https://www.youtube.com/watch?v=Fkn33ogBUc0)
+  - [Docker, Kubernetes et Istio, c'est utile pour mon monolithe? (D. Gageot)](https://www.youtube.com/watch?v=Z_sNyT0hcVw)
+  - [Kubernetes et les containers pour votre application Web : step by step - WEB2DAY 2017](https://www.youtube.com/watch?v=zztKO0iRX_w)
+  - [Mes Applications en production sur Kubernetes (M. Morello)](https://www.youtube.com/watch?v=cqqLeS9mUyU)
+  - [Les 12 factors Kubernetes (E. Coutaud)](https://www.youtube.com/watch?v=ULUQ8ZjLFeI)
+  - [Introduction To Apache Cassandra](https://www.youtube.com/watch?v=B_HTdrTgGNs)
+  - [Introduction à Cassandra - 1](https://www.youtube.com/watch?v=2zBY4OquaOg)
+  - [Introduction à Apache Cassandra](https://www.youtube.com/watch?v=usRbKPk-6Mo)
+  - [Fleet et etcd des outils simples mais efficaces pour orchestrer vos services (Yannick Grenzinger)](https://www.youtube.com/watch?v=fyquuk4Kfyo)
+  - [Introduction to etcd v3](https://www.youtube.com/watch?v=hQigKX0MxPw)
+  - [Python Penetration Testing - System Modules Explained (os)](https://www.youtube.com/watch?v=4iwh-i6LRU4)
+  - [Scrape Websites with Python + Beautiful Soup 4 + Requests -- Coding with Python](https://www.youtube.com/watch?v=3xQTJi2tqgk)
+  - [Python Tutorial: Web Scraping with BeautifulSoup and Requests](https://www.youtube.com/watch?v=ng2o98k983k)
 
 ## Scripting S03 - code - centralisation de données
   - [Scripting - 3.2 : Insertion de données factices dans mariadb](https://www.youtube.com/watch?v=WFTF3z74-3k)
