@@ -1,15 +1,77 @@
-# SOMMAIRE : TUTORIALS XAVKI
+# TUTORIAUX DE LA CHAINE XAVKI
+
+
+## TUTORIALS BAREOS FR
+  - [BAREOS - 1. INTRODUCTION](https://www.youtube.com/watch?v=5DyDPGwJUqI)
+  - [BAREOS - 2. NOTIONS ET DEFINITIONS](https://www.youtube.com/watch?v=Ie7A5ILeOd0)
+
+## TUTORIALS SSH FR
+  - [SSH - 1. INTRODUCTION](https://www.youtube.com/watch?v=gclyVcmpRaM)
+  - [SSH - 2. SSHD_CONFIG : PARAMETRES DE CONFIGURATION DU SERVEUR](https://www.youtube.com/watch?v=qrS1rSFb-1w)
+
+## TUTORIALS ANSIBLE FR
+  - [ANSIBLE - 1. INTRODUCTION ET PRESENTATION](https://www.youtube.com/watch?v=Cisg9bLhLkk)
+  - [ANSIBLE - 2. NOTIONS ET DEFINITIONS](https://www.youtube.com/watch?v=tirjpYSMkkM)
+  - [ANSIBLE - 3. LES INSTALLATIONS (PIP, DEPOTS ET A SAVOIR)](https://www.youtube.com/watch?v=0P25aOuUyxY)
+  - [ANSIBLE - 4. SSH : CLEFS ET ASTUCES](https://www.youtube.com/watch?v=dpDQ94huxmI)
+  - [ANSIBLE - 5. FICHIER CFG : CONFIGURATION ET TUNING](https://www.youtube.com/watch?v=8Hb-i9lXdXA)
+  - [ANSIBLE- 6. LA COMMANDE ANSIBLE EN CLI](https://www.youtube.com/watch?v=JPohVKUEnbs)
+  - [ANSIBLE - 7. LIGNE DE COMMANDE : ASTUCES AVEC LES MODULES](https://www.youtube.com/watch?v=blOKHSEs6IY)
+  - [ANSIBLE - 8. INVENTORY : SA STRUCTURE (GROUPES, HOSTS, FORMATS...)](https://www.youtube.com/watch?v=D8BUV1RYFjw)
+  - [ANSBILE - 9. INVENTORY : LES VARIABLES D'INVENTAIRE (HOST_VARS, GROUP_VARS...)](https://www.youtube.com/watch?v=UuiRDRIJ-sM)
+  - [ANSIBLE - 10. INVENTORY : LA COMMANDE ET LE GRAPH](https://www.youtube.com/watch?v=D6Ru-M04G4M)
+  - [ANSIBLE - 11. PLAYBOOK : PREMIERS PAS ET OPTIONS](https://www.youtube.com/watch?v=yN29WlhIUrI)
+  - [ANSIBLE - 12. MODULE FILE : DIRECTORY, SOFTLINK, DROITS, TOUCH...](https://www.youtube.com/watch?v=EmivDVqBqHw)
+  - [ANSIBLE - 13. IDEMPOTENCE & STATEFUL : ANSIBLE VS TERRAFORM !!!](https://www.youtube.com/watch?v=Lkqbd_hcQlI)
+  - [ANSIBLE- 14. GAGNEZ DU TEMPS : DEVELOPPEZ AVEC DOCKER (ASTUCE)](https://www.youtube.com/watch?v=aan0zpn2N-4)
+  - [ANSIBLE- 15. MODULE USER : COMMENT CREER, SUPPRIMER, GERER DES UTILISATEURS](https://www.youtube.com/watch?v=O9KOT2jxBu4)
+  - [ANSIBLE - 16. LE REGISTER ET LE MODULE STAT](https://www.youtube.com/watch?v=yI8duHq9HMY)
+  - [ANSIBLE - 17. LES BOUCLES : WITH_ITEMS ET LES AUTRES WITH](https://www.youtube.com/watch?v=Iyw_s61sDmU)
+  - [ANSIBLE - 18. LE MODULE APT : INSTALLATION, GESTION, SUPPRESSION DE PAQUETS](https://www.youtube.com/watch?v=0Capz3Z6Fds)
+  - [ANSIBLE - 19. MODULE REBOOT : REDEMARRER UN SERVEUR APRES UPGRADE](https://www.youtube.com/watch?v=SRD2h5Fh4fA)
+  - [ANSIBLE - 20. MODULES SSH : CREATION ET DEPLOIEMENT DE CLEFS](https://www.youtube.com/watch?v=NZX80E0Uyao)
+  - [ANSIBLE - 21. DELEGATE_TO, RUN_ONCE ET RUN LOCAL AVEC/SANS SSH](https://www.youtube.com/watch?v=ETtSXkXdp-k)
+  - [ANSIBLE - 22. LE MODULE COPY : LES BASES, VALIDATE, BACKUP, RECURSE...](https://www.youtube.com/watch?v=oIxoRcccnZ8)
+  - [ANSIBLE - 23. LE MODULE FETCH : RECUPERER DES FICHIERS ET ASTUCES](https://www.youtube.com/watch?v=hYsI7_259kQ)
+  - [ANSIBLE -24. LE MODULE TEMPLATE : LES BASES, VARIABLES, LISTES, BOUCLES, ASTUCES...](https://www.youtube.com/watch?v=bprLiIL0BA4)
+  - [ANSIBLE - 25. LES HANDLERS : NOTIFY, DECLENCHEMENT, FLUSH...](https://www.youtube.com/watch?v=4JWiTCxCBUc)
+  - [ANSIBLE - 26. LES ROLES : PRINCIPES ET STRUCTURE](https://www.youtube.com/watch?v=XCgl7RTrZ1g)
+  - [ANSIBLE - 27. LES ROLES : MISE EN PRATIQUE (EX : USER, NGINX...)](https://www.youtube.com/watch?v=IV7DxtlUnEw)
+  - [ANSIBLE - 28. LE MODULE SYSTEMD : START, DAEMON-RELOAD, ENABLED...](https://www.youtube.com/watch?v=UXVEOBBrN8w)
+
+## TUTORIALS TRAEFIK - DEBUTANT
+  - [TRAEFIK - 1. INTRODUCTION](https://www.youtube.com/watch?v=28xCGx3fgSI)
+  - [TRAEFIK - 2. PRINCIPES ET DEFINITIONS](https://www.youtube.com/watch?v=js7XTDAmU0c)
+  - [TRAEFIK - 3. INSTALLATION BINAIRE & INTERFACE GRAPHIQUE](https://www.youtube.com/watch?v=7n06JiR9fwM)
+  - [TRAEFIK - 4. PREMIER LOAD BALANCER](https://www.youtube.com/watch?v=BOvyA5kiE8E)
+  - [TRAEFIK - 5. AUTHENTIFICATION BASICAUTH : SIMPLE MOT DE PASSE](https://www.youtube.com/watch?v=tK4eosWB614)
+  - [TRAEFIK - 6. HTTPS : AVEC CERTIFICAT AUTO-SIGNE](https://www.youtube.com/watch?v=J1cOCkQKHNw)
+  - [TRAEFIK : HTTPS : AVEC UN CERTIFICAT LET'S ENCRYPT](https://www.youtube.com/watch?v=hDSqpSF5ksQ)
+  - [TRAEFIK - 8. PROVIDER DOCKER : PREMIERS PAS](https://www.youtube.com/watch?v=RMIUJlE4FBc)
+  - [TRAEFIK - 9. PROVIDER DOCKER : RESEAUX ET USEBINDPORTIP](https://www.youtube.com/watch?v=WXc2qOdOgzY)
+  - [TRAEFIK - 10. ROUTERS : LES RULES (HOST, PATH, REECRITURE, REGEXP)](https://www.youtube.com/watch?v=0lmiPITd5m8)
+  - [TRAEFIK - 11. TCP ET HOSTSNI (EX: MYSQL)](https://www.youtube.com/watch?v=UM7ml4Vlw_4)
+  - [TRAEFIK - 12. HTTP : LES HEADERS PERSONNALISES ET FORWARD FOR](https://www.youtube.com/watch?v=cezhIOyMSfI)
+  - [TRAEFIK - 13. TLS : LES OPTIONS & VERSIONS](https://www.youtube.com/watch?v=FkivXxqwJLA)
+  - [TRAEFIK - 14. MIDDLEWARES : FILTRER LES IP ET COMPRESSION](https://www.youtube.com/watch?v=M1n6eKWQz80)
+  - [TRAEFIK - 15. MIDDLEWARES : CHAINE POUR ORDONNER VOS MANIPULATIONS](https://www.youtube.com/watch?v=eybgKq-rQlg)
+  - [TRAEFIK -16. MIDDLEWARE ERRORS : NE PLUS RENVOYER D'ERREURS AUX CLIENTS](https://www.youtube.com/watch?v=0OxJccEtUcU)
+  - [TRAEFIK - 17. MIDDLEWARE CIRCUITBREAKER : INTERVENTION SUR LATENCE, CODE HTTP...](https://www.youtube.com/watch?v=PaLqSeZ8iLA)
+  - [TRAEFIK - 18. LES LOGS : LES DEUX TYPES](https://www.youtube.com/watch?v=XFZBO4kO1a8)
+  - [TRAEFIK - 19. METRIQUES : ROUTE POUR PROMETHEUS ET LES AUTRES](https://www.youtube.com/watch?v=fNWUAfFNXig)
+  - [TRAEFIK - 20. DOCKER COMPOSE : CONFIGURATION DU HTTPS](https://www.youtube.com/watch?v=ZqPG8fKosjM)
+  - [TRAEFIK - 21. HTTPS & DOCKER-COMPOSE : COMMENT DECLARER UN SERVICE ?](https://www.youtube.com/watch?v=excvLvlT_zI)
 
 ## VAGRANT TUTORIALS - KUBESPRAY
-  - [VAGRANT K8S - OBJECTIFS ET PRINCIPES](https://www.youtube.com/watch?v=2P8jQIN5hr0)
-  - [VAGRANT K8S - SQUELETTE DU VAGRANTFILE](https://www.youtube.com/watch?v=5hmsWOmI2kY)
+  - [#VAGRANT K8S - 1. OBJECTIFS ET PRINCIPES](https://www.youtube.com/watch?v=2P8jQIN5hr0)
+  - [VAGRANT K8S - 2. SQUELETTE DU VAGRANTFILE](https://www.youtube.com/watch?v=5hmsWOmI2kY)
   - [VAGRANT K8S - 3. UTILISER UN PROMPT ET LES CONDITIONS](https://www.youtube.com/watch?v=nS5EMSkzZh0)
-  - [VAGRANT K8S - 4. INSTALLATION HAPROXY](https://www.youtube.com/watch?v=ZoZNLspYnDg)
+  - [VAGRANT K8S - 4. INSTALLATION #HAPROXY](https://www.youtube.com/watch?v=ZoZNLspYnDg)
   - [VAGRANT K8S - 5. INSTALLATION KUBESPRAY](https://www.youtube.com/watch?v=POvr_egl2iE)
   - [VAGRANT K8S - 6. INSTALLATION NFS ET WORDPRESS PUIS RUN VAGRANT](https://www.youtube.com/watch?v=jpgqoClGtP4)
 
 ## TUTORIALS LOKI FR
-  - [LOKI - 1. INTRODUCTION](https://www.youtube.com/watch?v=Tjwe1KfTYT8)
+  - [LOKI - 1. INTRODUCTION ET PRESENTATION](https://www.youtube.com/watch?v=Tjwe1KfTYT8)
   - [LOKI - 2. INSTALLATION DU SERVEUR LOKI](https://www.youtube.com/watch?v=pAhC2e4iRt8)
   - [LOKI - 3. INSTALLATION DE PROMTAIL & DATASOURCE GRAFANA](https://www.youtube.com/watch?v=9YYBEfhHYN8)
   - [LOKI - 4. INSTALLATION ET UTILISATION DE LOGCLI](https://www.youtube.com/watch?v=LkXv8h_pMhk)
@@ -21,12 +83,19 @@
   - [KVM - 3. VIRT MANAGER : PREMIERE MACHINE VIRTUELLE](https://www.youtube.com/watch?v=8krE9UaUylM)
   - [KVM - 4. VIRT INSTALL : PREMIERE VM VIA LA CLI](https://www.youtube.com/watch?v=pWf-U8Q7gxI)
   - [KVM - 5. VIRSH : PREMIERE MACHINE EN XML](https://www.youtube.com/watch?v=O6uJtSZW280)
+  - [KVM - 6. VIRT INSTALL : UTILISATION D'UN PRESEED (EX : DEBIAN)](https://www.youtube.com/watch?v=oZPk381zsW4)
+  - [KVM - 7. LES RESEAUX : CREER UN NAT (ET DHCP + IP STATIQUE)](https://www.youtube.com/watch?v=wgbtNnkU30w)
+  - [KVM - 8. INSTALLATiON D'UNE VM VIA VIRT-BUILDER](https://www.youtube.com/watch?v=3MSTl5GXUCI)
+  - [KVM - 9. CHANGER LE MOT DE PASSE ROOT VIA UN QCOW](https://www.youtube.com/watch?v=s_tMXEOeIQg)
+  - [KVM - 10. COMMENT AJOUTER UN DISQUE A UNE VM ?](https://www.youtube.com/watch?v=v9fnNJq_oR0)
 
 ## TUTORIALS PACKER - DEBUTANT
   - [PACKER - 1. INTRODUCTION](https://www.youtube.com/watch?v=Im0LxTzKHZA)
   - [PACKER - 2. INSTALLATION](https://www.youtube.com/watch?v=wtvWv5N-D6o)
   - [PACKER - 3. PREMIERE IMAGE : UBUNTU AVEC PRESEED POUR VIRTUALBOX](https://www.youtube.com/watch?v=zWj8qlSWnh4)
   - [PACKER - 4 : LES VARIABLES](https://www.youtube.com/watch?v=jbtUXkrxSWc)
+  - [PACKER - 5. BUILDER KVM : INSTALLATION D'UBUNTU AVEC PRESEED](https://www.youtube.com/watch?v=0zO-nsef98o)
+  - [PACKER - 6. BUILDER KVM : INSTALLER UBUNTU AVEC CLOUD-INIT](https://www.youtube.com/watch?v=D7oqNNn-haY)
 
 ## MINDSET
   - [MINDSET - 1. INGENIEUR VS TECHNICIEN ??](https://www.youtube.com/watch?v=hjUWU73rxvY)
@@ -65,6 +134,9 @@
   - [TERRAFORM - 28. KVM : UTILISER CLOUD INIT EN POST-INSTALLATION](https://www.youtube.com/watch?v=RQWNXESaLn8)
   - [TERRAFORM - 29. KVM : FIXER DES IP STATIQUES VIA LES MAC ADDRESS](https://www.youtube.com/watch?v=baeN_AwvwPg)
   - [TERRAFORM - 30. CLOUD INIT : IP STATIQUE VIA LA CONF DES INTERFACES](https://www.youtube.com/watch?v=yTdAy5zaqUY)
+  - [TERRAFORM - 32. KVM : COMMENT CREER ET UTILISER DES POOL DE STOCKAGE ?](https://www.youtube.com/watch?v=yibVp54x9zY)
+  - [TERRAFORM - 33. UTILISATION DES LOCALS ET DE LOOKUP](https://www.youtube.com/watch?v=njsMzRfqs2Q)
+  - [TERRAFORM - 34. COMPRENDRE LES WORKSPACES (EX. MULTIENVIRONNEMENT)](https://www.youtube.com/watch?v=WcazKyt2n_U)
 
 ## RH ET CARRIERES
   - [RH. 1 - COMMENT NEGOCIER UN PLUS GROS SALAIRE A L'EMBAUCHE ?](https://www.youtube.com/watch?v=TSG2F2k5g0E)
@@ -131,6 +203,10 @@
   - [K8S - 56. #HELM : INSTALLATION #WORDPRESS SUR NFS](https://www.youtube.com/watch?v=KUjt_3eQt2Y)
 
 ## ACTUALITES DEVOPS
+  - [ACTUS DEVOPS : DOCKER VM, GUACAMOLE, KONG, FOSDEM, USENIX](https://www.youtube.com/watch?v=gKYabLIMVMw)
+  - [ACTUS DEVOPS : K9S, DOCKER, DOCUMENTATION, VAGRANT/K3S, LOI DE BENFORD...](https://www.youtube.com/watch?v=pbCrHv-cLIw)
+  - [ACTUS #DEVOPS : ARGOCD, XLSKUBECTL, VICTORIAMETRICS, KVM/ESXi, AWS, BOTO3, @Just me and Opensource](https://www.youtube.com/watch?v=Tr2-kNe4jFw)
+  - [ACTUS #DEVOPS : TLS (TDFERDINAND), KUBE SCORE, KLUM, HAPROXY INGRESS CONTROLLER](https://www.youtube.com/watch?v=OE7hHvaKlzc)
   - [ACTUS DEVOPS : KUBETAP, LITMUS, SHELL OPERATOR, ENV0, GRAFANA](https://www.youtube.com/watch?v=owvOpqIo1aE)
   - [ACTU DEVOPS : GORSAIR, KUBEBOX, PUSHRM, TFERDINAND, FORMATION NGINX, ARKADE, OPENDISTRO...](https://www.youtube.com/watch?v=hMUadrFeeIw)
   - [ACTUS DEVOPS - MITOGEN, BLOG BARBU, PYTHON, SUJETS A VENIR](https://www.youtube.com/watch?v=Azv6vZoex8I)
@@ -237,6 +313,8 @@
   - [LIVEKI #2 - Questions / Réponses](https://www.youtube.com/watch?v=T0CEtVeo3Xg)
   - [LIVEKI #3 - Questions / Réponses](https://www.youtube.com/watch?v=mFfz1L_sFhI)
   - [LIVEKI #4 - Q/R ET VAGRANTISER UN KUBESPRAY](https://www.youtube.com/watch?v=3422RyFsSv8)
+  - [LIVEKI #5 - DECOUVERTE DE TRAEFIK ET DES OUTILS CONTAINOUS (AVEC MICHAEL MATUR)](https://www.youtube.com/watch?v=hvQTXuuLoK0)
+  - [LIVEKI - 6. GRAFANA : DASHBOARDS AS CODE](https://www.youtube.com/watch?v=RrbYuCo3k44)
 
 ## KrustyHack
   - [Kubernetes The Hard Way : comment créer un cluster Kubernetes complet à la main "From Scratch"](https://www.youtube.com/watch?v=jGRKFHV6UUc)
@@ -352,6 +430,11 @@
   - [Best Of 90's Club | Dance | Remixes | Bootleg | Mashup | Retro Megamix 2016 [Part 5]](https://www.youtube.com/watch?v=V6TSZKyxr1U)
   - [Deep Focus Playlist 🔵 Study Music for Better Concentration and Memory with Binaural Beats](https://www.youtube.com/watch?v=X0Cv0l-j86Y)
   - [The PERFECT 10 Minute Daily Posture Routine (FIX YOUR SIT!)](https://www.youtube.com/watch?v=RqcOCBb4arc)
+  - [Ava Max - Kings & Queens [Official Music Video]](https://www.youtube.com/watch?v=jH1RNk8954Q)
+  - [Nightcore - Rasputin (Remix) (For Mother Russia)](https://www.youtube.com/watch?v=Dboi1bja6M8)
+  - [Nightcore  - Sweet Dreams (Remix) ✕](https://www.youtube.com/watch?v=ylNucDjaWnM)
+  - [Haddaway   Fly Away Classic Remix](https://www.youtube.com/watch?v=r5EaWSrDlmg)
+  - [Dj Hao Music Radio • 24/7 Live Stream | Summer Deep House & Tropical House Chill Out | Relaxing](https://www.youtube.com/watch?v=-5PnuuQosro)
 
 ## Arduino
   - [Arduino - 0. Un PROJET ? kit Elegoo](https://www.youtube.com/watch?v=EVjwGKcwPyQ)
@@ -533,6 +616,7 @@
   - [PROMETHEUS - 36. VICTORIA-METRICS : INTRODUCTION](https://www.youtube.com/watch?v=Oe9vlvBDzDA)
   - [VICTORIA-METRICS - 37. INSTALLATION ET CONFIGURATION PROMETHEUS](https://www.youtube.com/watch?v=6AIu6oA_Zag)
   - [GRAFANA - 38. ALERTING : EXEMPLE DE SLACK](https://www.youtube.com/watch?v=J5e3oEFYsTs)
+  - [PROMETHEUS - 39. BLACKBOX : EXPORTER DE TESTS HTTP, DNS, TLS ET AUTRES](https://www.youtube.com/watch?v=uQCg8WA9zm4)
 
 ## LXC/LXD : conteneurs linux (installer, configurer, découvrir)
   - [LXC/LXD - 0. FORMATIONS](https://www.youtube.com/watch?v=aUOIzP7paGw)
@@ -806,6 +890,12 @@
   - [Netcat - 9. Cryptcat pour chiffrer vos flux](https://www.youtube.com/watch?v=7JbhQ_ctNbQ)
 
 ## Down
+  - [Using Terraform, Packer, and Ansible Together - Aaron Krauss: DevOps OKC](https://www.youtube.com/watch?v=pkEezNSFWtA)
+  - [Centralising Microservices Authorization using Open Policy Agent and Traefik (API Gateway)](https://www.youtube.com/watch?v=MRbqvcOtYqk)
+  - [API/microservices security with Kong](https://www.youtube.com/watch?v=zJdde08AlfQ)
+  - [What is an API Gateway?](https://www.youtube.com/watch?v=vHQqQBYJtLI)
+  - [[DevFest Nantes 2017] Les API gateway avec Kong](https://www.youtube.com/watch?v=4UyEU6_TqXY)
+  - [Mastering Microservices with Kong by Maarten Mulders](https://www.youtube.com/watch?v=lqyt5l3Hx5s)
   - [Cyber Security Full Course for Beginner](https://www.youtube.com/watch?v=U_P23SqJaDc)
   - [LOADays 2018: From Boot to root, pentesting with Docker (Jean-François Maes)](https://www.youtube.com/watch?v=ZmgVhNcuCx4)
   - [Persistance de Storage dans Kubernetes avec Rook (Stephane Beuret, David Blaskow)](https://www.youtube.com/watch?v=E_yKCS7POFI)
@@ -991,6 +1081,9 @@
   - [Actus avril 2020 : notamax, logos/intro, microservices](https://www.youtube.com/watch?v=2HzeSfH6Ccw)
   - [Actus avril 2020 : notamax, logos/intro, microservices](https://www.youtube.com/watch?v=2HzeSfH6Ccw)
   - [XAVKI - MAI 2020 : ANSIBLE GEERLING, NEWLETTER DEVOPS, MEMBRES, LIVE...](https://www.youtube.com/watch?v=195W3-Td8rw)
+  - [DTER - LES DESSOUS DE LA CHAINE](https://www.youtube.com/watch?v=U39UnHfDBAk)
+  - [DTER - CONCOURS, BONNE FETE ANSIBLE !!!!](https://www.youtube.com/watch?v=ExhfI14K0ZE)
+  - [DTER : SOUVERAINETE NUMERIQUE...](https://www.youtube.com/watch?v=Si3K8Rh_GyA)
 
 ## DOCKER SWARM - DEBUTANT
   - [DOCKER-SWARM - 0. PLAY WITH DOCKER](https://www.youtube.com/watch?v=uQ5PpdVmaBw)
@@ -1069,7 +1162,7 @@
   - [Wordpress - Scalabilité : 2. installation de l'applicatif](https://www.youtube.com/watch?v=YJUqEbGXD80)
   - [Wordpress - scalabilité : 3. installation d'un load balancer (haproxy)](https://www.youtube.com/watch?v=S9Huubjf7N4)
 
-## ANSIBLE - DEBUTANT
+## ANSIBLE - EX : WORDPRESS
   - [ANSIBLE - 0. SCALABILITE, HAUTE DISPO, PERFORMANCE](https://www.youtube.com/watch?v=yMrU8IUiKfI)
   - [ANSIBLE - 1. DEBUTER : INVENTORY, PING ET COPIE DE FICHIERS](https://www.youtube.com/watch?v=FUObYiI8eIM)
   - [ANSIBLE - 2. MODULE LINEINFILE : MODIFIEZ VOS FICHIERS](https://www.youtube.com/watch?v=7sDNZqCVjrc)
