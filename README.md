@@ -449,29 +449,6 @@
   - [AWS - 20. EBS : LIFECYCLE MANAGER](https://www.youtube.com/watch?v=QKXRxi7MwfU)
   - [AWS - 1.21. EC2 : TERMINATE PROTECTION ET SHUTDOWN](https://www.youtube.com/watch?v=kbB8pnumq0M)
 
-## music
-  - [U2 - With Or Without You (U2 At The BBC)](https://www.youtube.com/watch?v=6DeDzsCGbsQ)
-  - [The Killers - Human (Royal Albert Hall 2009)](https://www.youtube.com/watch?v=9NK0rtySc6c)
-  - [The Cranberries - Animal Instinct (Official Music Video)](https://www.youtube.com/watch?v=ky4CdN0x58A)
-  - [Josh Groban - You Raise Me Up **Lyrics** [HD]](https://www.youtube.com/watch?v=uyEokxi2hWY)
-  - [U2 at Glastonbury 2011 - One,  Where The Streets Have No Name](https://www.youtube.com/watch?v=HOIbhXLEJdc)
-  - [Where The Streets Have No Name-U2+Lyrics](https://www.youtube.com/watch?v=WZU8qQQV_QA)
-  - [Best Of 2000's Retro Club Dance Mix | 2016 December |](https://www.youtube.com/watch?v=HGYJ3vjvJXE)
-  - [Best Songs Of The 1990s - Cream Dance Hits of 90's - In the Mix](https://www.youtube.com/watch?v=8-yELjoG294)
-  - [Best Of '00s Dance Music Mix](https://www.youtube.com/watch?v=G1xrw-8dJ1U)
-  - [Good Morning Peace Music 528Hz ➤ Destroy All Negativity - Start Your Day With New Positive Vibes](https://www.youtube.com/watch?v=J6_oHkSlouA)
-  - [Best of 70's 80's 90's Retro Club Party Dance Hits  Music Megamix 2017 Vol  3](https://www.youtube.com/watch?v=YUs0mV-NbZc)
-  - [Best of 90's Retro   Mashup   Club   Dance   Party   Remixes   Retro Megamix](https://www.youtube.com/watch?v=x1nnETq0UBQ)
-  - [Best Of 90's Club | Dance | Remixes | Bootleg | Mashup | Retro Megamix 2016 [Part 6]](https://www.youtube.com/watch?v=1z9gYEuXq8w)
-  - [Best Of 90's Club | Dance | Remixes | Bootleg | Mashup | Retro Megamix 2016 [Part 5]](https://www.youtube.com/watch?v=V6TSZKyxr1U)
-  - [Deep Focus Playlist 🔵 Study Music for Better Concentration and Memory with Binaural Beats](https://www.youtube.com/watch?v=X0Cv0l-j86Y)
-  - [The PERFECT 10 Minute Daily Posture Routine (FIX YOUR SIT!)](https://www.youtube.com/watch?v=RqcOCBb4arc)
-  - [Ava Max - Kings & Queens [Official Music Video]](https://www.youtube.com/watch?v=jH1RNk8954Q)
-  - [Nightcore - Rasputin (Remix) (For Mother Russia)](https://www.youtube.com/watch?v=Dboi1bja6M8)
-  - [Nightcore  - Sweet Dreams (Remix) ✕](https://www.youtube.com/watch?v=ylNucDjaWnM)
-  - [Haddaway   Fly Away Classic Remix](https://www.youtube.com/watch?v=r5EaWSrDlmg)
-  - [Dj Hao Music Radio • 24/7 Live Stream | Summer Deep House & Tropical House Chill Out | Relaxing](https://www.youtube.com/watch?v=-5PnuuQosro)
-
 ## Arduino
   - [Arduino - 0. Un PROJET ? kit Elegoo](https://www.youtube.com/watch?v=EVjwGKcwPyQ)
 
