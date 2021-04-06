@@ -1,5 +1,296 @@
+# SOMMAIR DE LA CHAINE XAVKI : TUTORIELS FR
+
+## CREER UN MODULE ANSIBLE
+  - [ANSIBLE - 122. CREER UN MODULE : LES OBJECTIFS ET TEST PYTHON](https://www.youtube.com/watch?v=TN303ZvqT4E)
+  - [ANSIBLE - 123. CREATION MODULE : LA STRUCTURE (DOCUMENTATION, IMPORTS, MAIN)](https://www.youtube.com/watch?v=jHANhZ_w5uc)
+
+## TUTORIALES ET FORMATION STRACE
+  - [STRACE - 01. INTRODUCTION - PREMIERS PAS VERS LES SYSCALLS](https://www.youtube.com/watch?v=j_w-vQ3UriM)
+  - [STRACE - 02. DEBUTER : PREMIERES OPTIONS](https://www.youtube.com/watch?v=XvUqWpVo9QQ)
+  - [STRACE - 03 : TRACER LES FORKS](https://www.youtube.com/watch?v=bTMx6o5-2Wg)
+
+## TUTORIALS ANSIBLE PULL
+  - [ANSIBLE - 116. ANSIBLE-PULL : PREMIER RUN](https://www.youtube.com/watch?v=rV0EUE_prjA)
+  - [ANSIBLE - 117. ANSIBLE-PULL : INVENTAIRE ET SECRETS (VAULT)](https://www.youtube.com/watch?v=TGm_giJu63I)
+  - [ANSIBLE - 118. COMBINER ANSIBLE PULL & PUSH POUR LE MEILLEUR....](https://www.youtube.com/watch?v=Anb0iIV99s0)
+  - [ANSIBLE - 119. ANSIBLE PULL AVEC UN PRESEED](https://www.youtube.com/watch?v=PNExJ3E3468)
+
+## ZOOM
+  - [Docker History... en 2min #zoom](https://www.youtube.com/watch?v=-7Vl7fvQKW0)
+  - [Kubectl get events...  en 2min #zoom](https://www.youtube.com/watch?v=zE8qV6GfvLc)
+  - [La swap... en 2min #zoom](https://www.youtube.com/watch?v=w1rqP7MHwIs)
+  - [Iptables : prerouting, postrouting, chains... en 2min #zoom](https://www.youtube.com/watch?v=6rnYymOAfX4)
+  - [Awk, sa fonction system... en 2min #zoom](https://www.youtube.com/watch?v=YQMcR0wkuik)
+  - [Le vm.swappiness... en 2min #zoom](https://www.youtube.com/watch?v=fj-qjdn-gEg)
+  - [LVM et les strips... en 2min #zoom](https://www.youtube.com/watch?v=eOH6N8vnd_U)
+  - [LVM stripping et les chunks... en 2min #zoom](https://www.youtube.com/watch?v=1YGWLLm0M4M)
+  - [Gitops, c'est quoi ???... en 2min #zoom](https://www.youtube.com/watch?v=5EbJZXhs4Jc)
+  - [Message queues, pourquoi ?? en 2min... #zoom](https://www.youtube.com/watch?v=vhAHr7G3jrQ)
+  - [Réplica vs Partition... en 2min #zoom](https://www.youtube.com/watch?v=50rYjpaEcm8)
+
+## TUTORIALS ET FORMATION HELM
+  - [HELM - 1. INTRODUCTION : POURQUOI, COMMENT](https://www.youtube.com/watch?v=DuVxSs6ZoRA)
+  - [HELM - 2. CONCEPTS ET DEFINITIONS](https://www.youtube.com/watch?v=McT5uhmXTB0)
+  - [HELM - 3. INSTALLATION & AUTOCOMPLETE/ALIAS](https://www.youtube.com/watch?v=48DIOpP1SlA)
+  - [HELM - 4. ENVIRONNEMENT : REPERTOIRES ET VARIABLES](https://www.youtube.com/watch?v=CHyjKYcS5xg)
+  - [HELM - 5. DEPOTS : INSTALLATION ET PRINCIPES](https://www.youtube.com/watch?v=ZxkjztdgVzo)
+
+## TUTOS ANSIBLE & JINJA
+  - [ANSIBLE - 105. JINJA : LISTES, DICTIONNAIRES ET BOUCLES](https://www.youtube.com/watch?v=_Dv3imhHVAw)
+  - [ANSIBLE - 106. JINJA : LES CONDITIONS](https://www.youtube.com/watch?v=mFlh17Tpgxk)
+  - [ANSIBLE - 107. JINJA2 : LES FILTRES SUR LES STRINGS ET LES LISTES](https://www.youtube.com/watch?v=KUkOghU7BYE)
+  - [ANSIBLE - 108. JINJA : FILTRES ET MANIPULATIONS MOINS COURANTES](https://www.youtube.com/watch?v=9W0DesiDvGU)
+  - [ANSIBLE - 109. JINJA2 REGEX & RAW :  REPLACE, FINDALL, SEARCH, ESCAPE](https://www.youtube.com/watch?v=i_zI1svOWRo)
+  - [ANSIBLE - 100. JINJA : MANIPULATION D'URLS ET DE DATES/HEURES](https://www.youtube.com/watch?v=E-aZSU6_haM)
+  - [ANSIBLE - 111. JINJA : UTILISER LES VARIABLES D'UN AUTRE GROUPE ??](https://www.youtube.com/watch?v=QKgNCOXyl_A)
+  - [ANSIBLE - 112. JINJA : TP - HTML, FOR, SET](https://www.youtube.com/watch?v=ICnMmkn6CEg)
+  - [ANSIBLE - 113. JINJA : JSON / YAML & TO / FROM](https://www.youtube.com/watch?v=cutctcoDrTo)
+  - [ANSIBLE - 114. JINJA : QUERY JSON, SUM...](https://www.youtube.com/watch?v=TtOKceCC5YY)
+
+## TUTOS ANSIBLE ET ELK
+  - [ANSIBLE - 95. TP ELK : INSTALLATION DU ROLE ELASTICSEARCH (GALAXY)](https://www.youtube.com/watch?v=McpKVpYV8NU)
+  - [ANSIBLE - 96. TP ELK : INSTALLATION DE LOGSTASH](https://www.youtube.com/watch?v=NV4tsGbLZ74)
+  - [ANSIBLE - 97. TP ELK : INSTALLATION DE KIBANA](https://www.youtube.com/watch?v=P3CDd1sL5yQ)
+  - [ANSIBLE - 99. PLUGIN LOGSTASH : ENVOYEZ VOS LOGS DE PLAYBOOK DANS ELK](https://www.youtube.com/watch?v=D01GgBvvJs8)
+  - [ANSIBLE - 100. MONITORING / LOGGING : ELK ET PROMETHEUS/GRAFANA](https://www.youtube.com/watch?v=WMK3DjDjKCw)
+  - [ANSIBLE - 101. TP COMPIL : INSTALLATION ELASTICSEARCH EXPORTER + DASHBOARD](https://www.youtube.com/watch?v=_WxlrdTGarw)
+  - [ANSIBLE - 102. TP COMPIL : INSTALLATION DE FILEBEAT](https://www.youtube.com/watch?v=UtoBzannP2M)
+  - [ANSIBLE - 103. TP COMPIL : AJOUT DU CLUSTER SWARM](https://www.youtube.com/watch?v=imdSYpjimc8)
+  - [ANSIBLE - 104. TP COMPIL : METRICS ET LOGS DOCKER (CADVISOR)](https://www.youtube.com/watch?v=PdggfKrDSpQ)
+
+## TUTORIALS ET FORMATION OPENDISTRO
+  - [ELK - 83. OPENDISTRO : INTRODUCTION ET INSTALLATION ES (SECURISE)](https://www.youtube.com/watch?v=NYyrSuy2wKg)
+  - [ELK - 84. OPENDISTRO : INSTALLATION DE KIBANA ET CHANGEMENT DE PASSWORD](https://www.youtube.com/watch?v=CecrJTbEQlI)
+  - [ELK - 85. OPENDISTRO : INSTALLATION EN CLUSTER](https://www.youtube.com/watch?v=qxWHxlJHmc8)
+  - [ELK - 86. OPENDISTRO : MISE EN PLACE DES ALERTES (EX: SLACK)](https://www.youtube.com/watch?v=oJ3pFAq8vHs)
+  - [ELK - 87. OPENDISTRO : LES REQUETES SQL DANS ELASTICSEARCH](https://www.youtube.com/watch?v=TFjCATEdGnk)
+  - [ELK - 88. OPENDISTRO : CONFIGURATION DE L'AUTHENTIFICATION LDAP](https://www.youtube.com/watch?v=ohI58NdeNp0)
+  - [ELK - 89. OPENDISTRO : CONFIGURER LES AUTORISATIONS ET PERMISSIONS LDAP](https://www.youtube.com/watch?v=fMbLGZaWBus)
+  - [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
+
+## TUTORIALS ET FORMATION ELASTICSEARCH
+  - [ELK - 69. ELASTICSEARCH : PREMIERS CURL (INDEX, DOCUMENTS...)](https://www.youtube.com/watch?v=zuyZpiBhyZQ)
+  - [ELK - 70. ELASTICSEARCH : CEREBRO POUR MANAGER VOTRE CLUSTER](https://www.youtube.com/watch?v=EoB6TlY_SP0)
+  - [ELK - 71. ELASTICSEARCH : MANAGEMENT DE CLUSTER AVEC ELASTICHQ](https://www.youtube.com/watch?v=PlwkU8Ja1NA)
+  - [ELK - 72. ELASTICSEARCH : LE MAPPING ET L'INSERTION (BULK)](https://www.youtube.com/watch?v=PNH6RmTekas)
+  - [ELK - 73. ELASTICSEARCH : FAITES VOS PREMIERES RECHERCHES](https://www.youtube.com/watch?v=nlLVKJNwQmk)
+  - [ELK - 74. ELASTICSEARCH : MISE A JOUR DE CLUSTER (ROLLING UPGRADE)](https://www.youtube.com/watch?v=uWuTw_yP9x4)
+  - [ELK - 75. ELASTICSEARCH : SAUVEGARDER ET RESTAURER INDEX ET CLUSTER](https://www.youtube.com/watch?v=uGS3zxWqy2Y)
+  - [ELK - 76. ELASTICSEARCH : INSERTION BULK ET GEO_POINT (EX : COMMUNES FRANCAISES)](https://www.youtube.com/watch?v=Zpszt2fbjFQ)
+  - [ELK - 77. ELASTICSEARCH : SHARDING, PRINCIPES ET RECOMMANDATIONS](https://www.youtube.com/watch?v=nmNmInuY9sI)
+  - [ELK - 78. ELASTICSEARCH : COMMENT REINDEXER ? UTILISER UN ALIAS](https://www.youtube.com/watch?v=RMe1RdOX4dE)
+  - [ELK - 79. ELASTICSEARCH CURATOR : INTRODUCTION ET INSTALLATION](https://www.youtube.com/watch?v=DmBTUj14TRo)
+  - [ELK - 80. ES CURATOR : GESTION ET MANAGEMENT DES ALIAS](https://www.youtube.com/watch?v=M1EnbqI7I1Q)
+  - [ELK - 81. CURATOR : SNAPSHOT ET RESTAURATION DE CLUSTER ET INDEX ES (EX. SUR NFS)](https://www.youtube.com/watch?v=Cob6l2rTHeM)
+  - [ELK - 82. CURATOR : CREATION ET SUPPRESSION D'INDEX ELASTICSEARCH](https://www.youtube.com/watch?v=kQbws4EMr_0)
+  - [ELK - 83. OPENDISTRO : INTRODUCTION ET INSTALLATION ES (SECURISE)](https://www.youtube.com/watch?v=NYyrSuy2wKg)
+
+## TUTORIALS ET FORMATION KIBANA
+  - [ELK - 43. KIBANA : PRESENTATION ET PRINCIPES](https://www.youtube.com/watch?v=x-9Hjy6E7bI)
+  - [ELK - 44. KIBANA : DISCOVER, les filtres et principes](https://www.youtube.com/watch?v=iRQSt-f2bc0)
+  - [ELK - 45. KIBANA : DEBUTER AVEC KQL](https://www.youtube.com/watch?v=xqV6IPOkT-4)
+  - [ELK - 46. KIBANA : DISCOVER AVEC LUCENE ET REGEXP](https://www.youtube.com/watch?v=aZsL5bsxEBM)
+  - [ELK - 47. KIBANA : VISUALISATION AVEC LENS](https://www.youtube.com/watch?v=C_ohP9HV1VE)
+  - [ELK - 48. KIBANA : VISUALISATION EN DATA TABLE](https://www.youtube.com/watch?v=oA2oEdohGRM)
+  - [ELK - 49. KIBANA : VISUALISATION - LES GAUGES ET LES GOALS](https://www.youtube.com/watch?v=9fZayPr43As)
+  - [ELK - 50. KIBANA : LES GRAPHIQUES AVEC LINE (VIZUALISE)](https://www.youtube.com/watch?v=bxc4FPnYXZU)
+  - [ELK - 50. KIBANA : LES GRAPHIQUES AVEC LINE (VIZUALISE)](https://www.youtube.com/watch?v=bxc4FPnYXZU)
+  - [ELK - 51. KIBANA : UTILISER LES CONTROLS POUR VOS DASHBOARDS](https://www.youtube.com/watch?v=GGuahsQ22PE)
+  - [ELK - 52. KIBANA : TIMELION, LA VISUALISATION ULTRA CUSTOM](https://www.youtube.com/watch?v=-VMrwaE0hIs)
+  - [ELK - 53. KIBANA : VISUALISATION SOUS FORME DE HEATMAP](https://www.youtube.com/watch?v=_FBddID3FcE)
+  - [ELK - 54. KIBANA : FAIRE DES CARTES AVEC MAPS](https://www.youtube.com/watch?v=Tp5uP0SE_Mg)
+  - [ELK - 54. KIBANA : FAIRE DES CARTES AVEC MAPS](https://www.youtube.com/watch?v=Tp5uP0SE_Mg)
+  - [ELK - 55. KIBANA : TSVB / COMPTEUR / MARKDOWN / CAMEMBERTS...](https://www.youtube.com/watch?v=bLe4Sl8ZD34)
+  - [ELK - 56. KIBANA : LES CANVAS (MISE EN FORME DESIGN)](https://www.youtube.com/watch?v=KxHB41xp_AY)
+  - [ELK - 57. KIBANA : LE MACHINE LEARNING (STATISTIQUES AVANCEES)](https://www.youtube.com/watch?v=an-X12gXlNA)
+  - [ELK - 58. KIBANA : LE MODULE METRIC ET METRICBEAT](https://www.youtube.com/watch?v=xk8xxyDhOks)
+  - [ELK - 58. KIBANA : LE MODULE METRIC ET METRICBEAT](https://www.youtube.com/watch?v=xk8xxyDhOks)
+  - [ELK - 59. KIBANA : LE MODULE UPTIME ET HEARTBEAT](https://www.youtube.com/watch?v=S5MyeD8ysxA)
+  - [ELK - 60. KIBANA : LE MODULE SIEM ET IPTABLES (EXEMPLE)](https://www.youtube.com/watch?v=v04UP9SMXcI)
+  - [ELK  - 61. KIBANA : APM (APPLICATION PERFORMANCE MONITORING)](https://www.youtube.com/watch?v=M5UCsO-SQhA)
+  - [ELK - 62. KIBANA : ROLLUP D'INDEX OU JOBS DE REGROUPEMENT DE DOCUMENTS](https://www.youtube.com/watch?v=rDBfFu-jsm4)
+  - [ELK - 63. KIBANA : TRANSFORM CREER UN INDEX A PARTIR D'UNE REQUETE ELASTIC](https://www.youtube.com/watch?v=cDDQm3rOu4Y)
+  - [ELK - 64. KIBANA : SAUVEGARDE ET RESTAURATION DE ELASTICSEARCH](https://www.youtube.com/watch?v=aVwdP9zddR8)
+  - [ELK - 65. KIBANA : MISE EN PLACE DU HTTPS VIA TLS (SANS NGINX)](https://www.youtube.com/watch?v=OALvk3J4yPQ)
+  - [ELK - 66. KIBANA : EN HTTPS DERRIERE UN NGINX](https://www.youtube.com/watch?v=usF-LwTgI3o)
+  - [ELK - 67. KIBANA : PARAMETRES DE CONFIGURATION VIA GUI ET KIBANA.YML](https://www.youtube.com/watch?v=6jokDomQjVM)
+  - [ELK - 67. KIBANA : PARAMETRES DE CONFIGURATION VIA GUI ET KIBANA.YML](https://www.youtube.com/watch?v=6jokDomQjVM)
+
+## TUTORIELS ET FORMATION LOGSTASH
+  - [ELK - 4. INSTALLATION LOGSTASH](https://www.youtube.com/watch?v=CaLSEeV_L4s)
+  - [ELK - 5. LOGSTASH : INPUT FILES ET GROK EX. NGINX (LES FICHIERS LOCAUX)](https://www.youtube.com/watch?v=RSOC9XqlusQ)
+  - [ELK - 18. LOGSTASH : INPUT FILE](https://www.youtube.com/watch?v=M5MxzL2uQ4o)
+  - [ELK - 19. LOGSTASH : INPUT PLUGIN STDIN ET BEAT](https://www.youtube.com/watch?v=IRS8XWCbOe8)
+  - [ELK - 20. LOGSTASH : INPUT PLUGIN EXEC ET TCP](https://www.youtube.com/watch?v=gQnkKR9w24w)
+  - [ELK - 21. LOGSTASH : INPUT PLUGIN ELASTICSEARCH](https://www.youtube.com/watch?v=WJVydGRFjrU)
+  - [ELK - 22. LOGSTASH : INPUT PLUGIN DE TYPE JDBC - EX : POSTGRESQL](https://www.youtube.com/watch?v=TyixiRWJGmw)
+  - [ELK - 23. LOGSTASH : INPUT PLUGIN TWITTER](https://www.youtube.com/watch?v=PCvVCjC-wp0)
+  - [ELK - 24. LOGSTASH : INPUT PLUGIN HTTP](https://www.youtube.com/watch?v=PjE-ckwSpLA)
+  - [ELK - 25. LOGSTASH : PRINCIPE DES FILTERS - EX : CSV](https://www.youtube.com/watch?v=8AopEBelb_g)
+  - [ELK - 26. LOGSTASH : FILTER PLUGIN DATE](https://www.youtube.com/watch?v=0rTFXQaSh4Q)
+  - [ELK - 27. LOGSTASH : FILTER MUTATE](https://www.youtube.com/watch?v=78ADqA-UIMY)
+  - [ELK - 28. LOGSTASH : FILTER AGGREGATE SIMPLIFIE](https://www.youtube.com/watch?v=mEx72EaTuFM)
+  - [ELK - 29. LOGSTASH : AJOUT DE PLUGINS (EN/HORS LIGNE), REMOVE, UPDATE](https://www.youtube.com/watch?v=NmuBEQn2DnE)
+  - [ELK - 30. LOGSTASH FILTERS : DISSECT, CIDR ET ALTER](https://www.youtube.com/watch?v=BUdob3VknHA)
+  - [ELK - 31. LOGSTASH : LE FILTRE GROK (PRINCIPES ET UTILISATION)](https://www.youtube.com/watch?v=_w7kyTM26X4)
+  - [ELK - 32. LOGSTASH : GROK ET CUSTOM PATTERN](https://www.youtube.com/watch?v=HmTKCs9AECM)
+  - [ELK - 33. LOGSTASH : GESTION DES GROKPARSEFAILURE](https://www.youtube.com/watch?v=tZQQxXDuB2o)
+  - [ELK - 34. LOGSTASH : CODEC MULTI-LIGNES ET GROK](https://www.youtube.com/watch?v=VvHxmnstBg8)
+  - [ELK - 35. LOGSTASH : OUTPUT DE TYPE FILE, CSV ET EXEC](https://www.youtube.com/watch?v=gEnjdeVcFsc)
+  - [ELK - 36. LOGSTASH : OUTPUT DE TYPE ELASTICSEARCH - GENERAL](https://www.youtube.com/watch?v=cU4A1s5FQco)
+  - [ELK - 37. LOGSTASH : ELASTICSEARCH - CREATION DE TEMPLATES D'INDEX](https://www.youtube.com/watch?v=s5AmHCWlhHQ)
+  - [ELK - 38. ELASTICSEARCH : INDEX LIFECYCLE MANAGEMENT - PRINCIPES ET CONFIGURATION](https://www.youtube.com/watch?v=Ct64tlB_FL4)
+  - [ELK - 39. LOGSTASH : CONFIGURATION DE ILM POUR ELASTICSEARCH](https://www.youtube.com/watch?v=1Gcny9RWvZk)
+  - [ELK - 40. LOGSTASH : EXPORTER VERS MONGODB (OUTPUT)](https://www.youtube.com/watch?v=V0PV23SwTnQ)
+  - [ELK - 41. LOGSTASH : CREATION DE TICKET REDMINE (OUTPUT)](https://www.youtube.com/watch?v=kU7qatatPhA)
+  - [ELK - 42. LOGSTASH : INJECTER VOS DONNEES DANS KAFKA](https://www.youtube.com/watch?v=h1aCd0Bwlu0)
+
+## TUTORIELS ET FORMATION FILEBEAT
+  - [ELK - 6. FILEBEAT : INSTALLATION ET MODULE EX. NGINX](https://www.youtube.com/watch?v=X0FY1XeHtmI)
+  - [ELK - 7. FILEBEAT : INPUT FILES ET OUPUT LOGSTASH](https://www.youtube.com/watch?v=kKOcA99A98o)
+  - [ELK - 8. FILEBEAT : LES INPUTS DE TYPE LOG](https://www.youtube.com/watch?v=X3OXO4C0wR8)
+  - [ELK - 9. FILEBEAT : INPUT CONTAINER ET TCP](https://www.youtube.com/watch?v=_eQWPGpJZ1k)
+  - [ELK - 10. LOGSTASH : MULTI INPUT FILEBEAT ET MULTI-INDEX](https://www.youtube.com/watch?v=vdTKH_mFcak)
+  - [ELK - 11. FILEBEAT : OUTPUT POUR LOGSTASH](https://www.youtube.com/watch?v=yqWXM9Yw5As)
+  - [ELK - 12. FILEBEAT : OUTPUT VERS KAFKA](https://www.youtube.com/watch?v=3jiADy15Bac)
+  - [ELK - 13. FILEBEAT : OUTPUT DE TYPE FILE OU CONSOLE](https://www.youtube.com/watch?v=4MVQQkiAZVk)
+  - [ELK - 14. FILEBEAT : COMMUNIQUER EN TLS/SSL AVEC LOGSTASH](https://www.youtube.com/watch?v=Ql9p7YYyDqo)
+  - [ELK - 15. FILEBEAT : COLLECTE DES LOGS POSTGRESQL (MODULE)](https://www.youtube.com/watch?v=aF2VXEkMObE)
+
+## TUTOS ANSIBLE ET AWS
+  - [ANSIBLE - 85. AWS : L'INVENTAIRE DYNAMIQUE](https://www.youtube.com/watch?v=IQXdn5D6Rac)
+  - [ANSIBLE - 86. AWS : TP WORDPRESS ET KEY PAIRS (SSH)](https://www.youtube.com/watch?v=g0MoK-wzdLo)
+  - [ANSIBLE - 87. AWS : SECURITY GROUP ET INSTANCE EC2 - TP](https://www.youtube.com/watch?v=cWixVSyuLfE)
+  - [ANSIBLE - 88. AWS : ADD_HOST, WAIT_FOR ET CREATION DE VOLUMES EC2](https://www.youtube.com/watch?v=8HO4Rep4pNM)
+  - [ANSIBLE - 89. AWS : INSTALLATION DE VOLUME EBS ET DE MARIADB](https://www.youtube.com/watch?v=5nztOZIaAXQ)
+  - [ANSIBLE- 90. AWS : TP - INSTALLATION DE WORPDRESS ET VOLUMES EBS](https://www.youtube.com/watch?v=2tLfBB8LKZs)
+  - [ANSIBLE - 91. AWS TP : ORGANISATION DES ROLES, VARIABLES...](https://www.youtube.com/watch?v=ZRubBpLaz58)
+  - [ANSIBLE - 92. AWS TP : SUPPRESSION DES EC2, SECURITY GROUP ET KEY PAIRS](https://www.youtube.com/watch?v=GEHjR4T2b-0)
+
+## DEBUTER AWX
+  - [ANSIBLE - 77. AWX : INTRODUCTION](https://www.youtube.com/watch?v=TxujMdXLv1Y)
+  - [ANSIBLE - 78. AWX : INSTALLATION](https://www.youtube.com/watch?v=DNnzdlGgaa8)
+  - [ANSIBLE - 79. AWX : INTERFACE GRAPHIQUE](https://www.youtube.com/watch?v=2ROee0BR0so)
+  - [ANSIBLE - 80. AWX : LES PERMISSIONS (USERS, TEAMS, ORG...)](https://www.youtube.com/watch?v=BqLeYxpeeoo)
+  - [ANSIBLE - 81. AWX : INVENTORY, HOSTS ET CREDENTIALS](https://www.youtube.com/watch?v=FZJBrmpYEN8)
+  - [ANSIBLE - 82. AWX : CREER UN PROJET, UN TEMPLATE ET SCHEDULER UN JOB](https://www.youtube.com/watch?v=zAB8ravvcmg)
+  - [ANSIBLE - 83. AWX : SOURCE GIT ET WORKFLOW](https://www.youtube.com/watch?v=6zE-LIzAPI0)
+  - [ANSIBLE - 84. AWX : LES NOTIFICATIONS (EX : MAIL)](https://www.youtube.com/watch?v=WSM5rZwsfS0)
+
+## Discoveries
+  - [dotScale 2015 - John Wilkes - Cluster management at Google with Borg](https://www.youtube.com/watch?v=wy3L7XUq-g0)
+  - [GOTO 2016 • Cluster Management at Google with Borg • John Wilkes](https://www.youtube.com/watch?v=0W49z8hVn0k)
+  - [Introduction to Microprocessors | Bharat Acharya Education](https://www.youtube.com/watch?v=Xl2nWDcy0To)
+  - [Slow Pagination? DO NOT use Offset in your SQL - Here is Why](https://www.youtube.com/watch?v=WDJRRNCGIRs)
+  - [Do You Love Me?](https://www.youtube.com/watch?v=fn3KWM1kuAw)
+  - [SREcon20 Americas - Implementing Distributed Consensus](https://www.youtube.com/watch?v=gAGGPaFDfwE)
+  - [SREcon20 Americas - Give Your PXE wings! Bootstrapping Explained](https://www.youtube.com/watch?v=wEPORWOjLjg)
+  - [SREcon20 Americas - Achieving the Ultimate Performance with KVM](https://www.youtube.com/watch?v=68pxqKAwTYU)
+  - [The 2020 Google Outage (Detailed Analysis)](https://www.youtube.com/watch?v=7H53Peoh_Jc)
+  - [How to Run Wordpress in Kubernetes: The Right Way](https://www.youtube.com/watch?v=c5c9yVtQGbU)
+  - [Vim: Tutorial on Editing, Navigation, and File Management (2018)](https://www.youtube.com/watch?v=E-ZbrtoSuzw)
+  - [La méthode Feynman - Comment apprendre rapidement](https://www.youtube.com/watch?v=P1v-IcB906M)
+  - [GOTO 2018 • Containers From Scratch • Liz Rice](https://www.youtube.com/watch?v=8fi7uSYlOdc)
+  - [containerd deep dive](https://www.youtube.com/watch?v=UUDDCetB7_A)
+  - [💻 - See How a CPU Works](https://www.youtube.com/watch?v=cNN_tTXABUA)
+  - [The Evolution Of CPU Processing Power Part 1: The Mechanics Of A CPU](https://www.youtube.com/watch?v=sK-49uz3lGg)
+  - [Optimizing Kubernetes Resource Requests/Limits for Cost-Efficiency and Latency / Henning Jacobs](https://www.youtube.com/watch?v=eBChCFD9hfs)
+  - [OpenFaaS: serverless self-hosted, made simple? - Alexander Köhler, inovex](https://www.youtube.com/watch?v=utBk6cAWYy8)
+  - [Explore Kubernetes Network Plugins - Harshvardhan Karn & Sumit Lalwani](https://www.youtube.com/watch?v=x82QDptkUtQ)
+  - [GopherCon 2014 Go for Sysadmins by Kelsey Hightower](https://www.youtube.com/watch?v=wyRbHhHFZh8)
+  - [Introduction to Thanos | Rawkode Live](https://www.youtube.com/watch?v=j4TAGO019HU)
+  - [Comprendre et configurer la stack réseau Linux](https://www.youtube.com/watch?v=64AED6__kSE)
+  - [SELECT COUNT can impact your Backend Application Performance, here is why](https://www.youtube.com/watch?v=8xKS7QQKgzk)
+  - [18-740 Computer Architecture Lecture 15 - Memory Resource Management II](https://www.youtube.com/watch?v=WNssLek76eY)
+  - [IETF 105 Technology Deep Dive: How Network Interface Cards (NICs) Work Today](https://www.youtube.com/watch?v=wHM7RVk3-yk)
+  - [Python Microservices Full Course - Event-Driven Architecture with RabbitMQ](https://www.youtube.com/watch?v=ddrucr_aAzA)
+  - [The Story of Rowhammer - Secure Hardware, Architectures, and Operating Systems Keynote - Onur Mutlu](https://www.youtube.com/watch?v=sgd7PHQQ1AI)
+  - [In-depth: ELF - The Extensible & Linkable Format](https://www.youtube.com/watch?v=nC1U1LJQL8o)
+  - [Life of a Packet  - Michael Rubin, Google](https://www.youtube.com/watch?v=0Omvgd7Hg1I)
+  - [Linux bootcamp: From casual Linux user to kernel hacker - Part 3](https://www.youtube.com/watch?v=K8OQ1IXgEys)
+  - [Packet Traveling - How Packets Move Through a Network](https://www.youtube.com/watch?v=rYodcvhh7b8)
+  - [ Linux kernel  Understanding ELF - Dissecting of Executable and Linking Format](https://www.youtube.com/watch?v=zDKM7uXsKrQ)
+  - [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
+  - ["Raft - The Understandable Distributed Protocol" by Ben Johnson (2013)](https://www.youtube.com/watch?v=ro2fU8_mr2w)
+  - ["A better story for Kubernetes secrets" by Seth Vargo](https://www.youtube.com/watch?v=7jSfJombUeY)
+  - [Keynote: High Reliability Infrastructure Migrations - Julia Evans, Software Engineer, Stripe](https://www.youtube.com/watch?v=obB2IvCv-K0)
+  - [LISA19 - Linux Systems Performance](https://www.youtube.com/watch?v=fhBHvsi0Ql0)
+  - [Learn TensorFlow and Deep Learning fundamentals with Python (code-first introduction) Part 1](https://www.youtube.com/watch?v=tpCFfeUEGs8)
+  - [Learn TensorFlow and Deep Learning fundamentals with Python (code-first introduction) Part 2](https://www.youtube.com/watch?v=ZUKz4125WNI)
+  - [Kernel-bypass techniques for high-speed network packet processing](https://www.youtube.com/watch?v=MpjlWt7fvrw)
+
+## Learn Ansible for beginners
+  - [Introduction in 5 minutes - #ANSIBLE 01](https://www.youtube.com/watch?v=4SRSn8jIpa4)
+  - [Definitions and Concepts : inventory, hosts and groups - #ANSIBLE 02](https://www.youtube.com/watch?v=icEMMYqKUXs)
+  - [Playbooks and Roles ?? #ANSIBLE 03](https://www.youtube.com/watch?v=8Q7snpDqdWc)
+  - [How could you install it ?? #ANSIBLE 04](https://www.youtube.com/watch?v=qWzppQKPMWM)
+  - [SSH : How generate and use a key ? #ANSIBLE 05](https://www.youtube.com/watch?v=QT0TAdau2WM)
+  - [What is ansible.cfg file ? #ANSIBLE 06](https://www.youtube.com/watch?v=nAQNZznFzNs)
+  - [Inventory and Structure #ANSIBLE 07](https://www.youtube.com/watch?v=PYebeiJ8OVI)
+  - [Inventory variables : host_vars and group_vars - #ANSIBLE 8](https://www.youtube.com/watch?v=XL9sUF8n_Rw)
+  - [The Playbook file - #ANSIBLE 09](https://www.youtube.com/watch?v=UGm3Zdjf8eI)
+  - [CLI : simple commands and tips/tricks - #ANSIBLE 10](https://www.youtube.com/watch?v=rsQpi8_gXfQ)
+  - [First module, the file module - #ANSIBLE 11](https://www.youtube.com/watch?v=DJy7jEIRKcs)
+  - [How to easily develop ansible code with docker ? - #ANSIBLE 12](https://www.youtube.com/watch?v=9h2Ya6jZxgo)
+  - [User module : create, remove and manager users - #ANSIBLE 13](https://www.youtube.com/watch?v=bEIt3cVXdRg)
+  - [Stat module & Register - #ANSIBLE 14](https://www.youtube.com/watch?v=UxT_cbh_y4o)
+  - [With_items and Loops - #ANSIBLE 15](https://www.youtube.com/watch?v=u3aSa1hVUzg)
+  - [APT Module : install/update/remove packages - #ANSIBLE 16](https://www.youtube.com/watch?v=WewO1SnJeAQ)
+  - [Reboot module - #ANSIBLE 17](https://www.youtube.com/watch?v=50cenB6Fld0)
+  - [SSH modules (generate and deploy a key) - #ANSIBLE 18](https://www.youtube.com/watch?v=0pghbr_vIG8)
+  - [Delegate_to, run_once and local connection - #ANSIBLE 19](https://www.youtube.com/watch?v=HVUqokiGgF4)
+  - [The COPY module : to copy files and directories - #ANSIBLE 20](https://www.youtube.com/watch?v=gjoc3wuzMt4)
+
+## anglais
+  - [2 Hours of English Conversation Practice - Improve Speaking Skills](https://www.youtube.com/watch?v=NNamZZsggM4)
+  - [Understand FAST English Conversations](https://www.youtube.com/watch?v=6MVxOPEu6HA)
+  - [Learn English in 3 hours - ALL the English Basics You Need in 2020](https://www.youtube.com/watch?v=khZIOgs6usc)
+  - [Learn English Through Story ★ Subtitles: The USA by Alison Baxter (Level 4)](https://www.youtube.com/watch?v=7Uyh1te-xt8)
+  - [Learn English Through Story ★ Subtitles: Mahatma Gandhi by Katerina M. (Level 4)](https://www.youtube.com/watch?v=Pt4FpnAs3dM)
+  - [Hypnose Reprogrammation Subconsciente Positive. Ecoutez Chaque soir pendant 21 jours.](https://www.youtube.com/watch?v=JSHgKPCLLFI)
+  - [Learn English Through Story ★ Subtitles: The Internet by John Work (Level 5)](https://www.youtube.com/watch?v=FmsHrbWGXWQ)
+
+## MusKi
+  - [Zack Hemsey - "Vengeance" | The Last Dance: Soundtrack](https://www.youtube.com/watch?v=8VgoJOtiB9A)
+  - [3 Hour Study Focus Music: Alpha Waves, Brain Music, Concentration Music, Calming Music, Focus, ☯2444](https://www.youtube.com/watch?v=ctXQxPO3bbg)
+  - [Relaxing Study Music For Concentration - 4 Hours of Deep Focus Music fo Studying](https://www.youtube.com/watch?v=hMhKgSbyuQs)
+  - [Dua Lipa, Coldplay, Martin Garrix & Kygo, The Chainsmokers Style - Feeling Me #68](https://www.youtube.com/watch?v=5iWtLt9v_CI)
+  - [852 hz Love Frequency, Raise Your Energy Vibration, Deep Meditation, Healing Tones](https://www.youtube.com/watch?v=joXu1AMzzWg)
+  - [Mega Hits 2020🌱Dua Lipa, Coldplay, Martin Garrix & Kygo Style 🌱Summer Music Mix 2020](https://www.youtube.com/watch?v=OFc28hTZQL0)
+  - [P!nk - What About Us (Official Video)](https://www.youtube.com/watch?v=ClU3fctbGls)
+  - [Just Give Me a Reason - P!nk - Ft. Nate Ruess - HD - lyrics](https://www.youtube.com/watch?v=No-fUfWbvIw)
+  - [ACDC - Thunderstruck](https://www.youtube.com/watch?v=VcByktP-mdE)
+  - [Mary J. Blige, U2 - One (Official Music Video)](https://www.youtube.com/watch?v=ZpDQJnI4OhU)
+  - [RAISE VIBRATION - 528 Hz Positive Energy - Be Positive Minded, Calm & Balanced Meditation Music](https://www.youtube.com/watch?v=V1v9OOHAfQ0)
+  - [Nora En Pure Freqways Flight to Brac Island](https://www.youtube.com/watch?v=LzjBVDuJo5M)
+  - [Nora En Pure presents Purified 200 | Gstaad, Switzerland](https://www.youtube.com/watch?v=Lwk8e2q4qHo)
+  - [Nora En Pure @ home stream II](https://www.youtube.com/watch?v=_8ZzQ0UoJs0)
+  - [Stephan Eicher - Manteau De Gloire](https://www.youtube.com/watch?v=WZFW1G6pITM)
+  - [Queen - A Kind Of Magic (Live At Wembley Stadium, Friday 11 July 1986)](https://www.youtube.com/watch?v=c2_xWTSyCuU)
+  - [Queen & David Bowie - Under Pressure (Classic Queen Mix)](https://www.youtube.com/watch?v=YoDh_gHDvkk)
+  - [Miss Monique - MiMo Weekly Podcast 027  [Progressive House/ Melodic Techno DJ Mix] 4K](https://www.youtube.com/watch?v=vZSGrCBLKiU)
+  - [Miss Monique - YearMix  2020 [Progressive/Melodic House DJ Mix]](https://www.youtube.com/watch?v=Bi11Iid2hmo)
+  - [Bleed It Out [Official Music Video] - Linkin Park](https://www.youtube.com/watch?v=OnuuYcqhzCE)
+  - [Numb [Official Music Video] - Linkin Park](https://www.youtube.com/watch?v=kXYiU_JCYtU)
+  - [In The End [Official HD Music Video] - Linkin Park](https://www.youtube.com/watch?v=eVTXPUF4Oz4)
+  - [U2 - With Or Without You (Official Music Video)](https://www.youtube.com/watch?v=ujNeHIo7oTE)
+  - [P!nk - Leave Me Alone (I'm Lonely) [Live from Wembley Arena, London, England]](https://www.youtube.com/watch?v=z53-ONLDvT0)
+  - [The Alan Parsons Project - SIRIUS | The Last Dance: Soundtrack](https://www.youtube.com/watch?v=6bOL92_H480)
+  - [Queen Live at Wembley](https://www.youtube.com/watch?v=IgCr4w6Fhiw)
+  - [I Am What I Am - Official Anthem For The World Video - Gloria Gaynor](https://www.youtube.com/watch?v=QHcDnqIz0jg)
+
+## TUTORIALS FLUXCD FR - K8S
+  - [K8S - 63. FLUX CD : INTRODUCTION POUR DEBUTER #GITOPS](https://www.youtube.com/watch?v=yUvYi6obLgM)
+  - [FLUXCD - 64. INSTALLATION ET PREMIER SYNC #K8S](https://www.youtube.com/watch?v=h-EIzE56hEw)
+  - [FLUXCD - 65. LIGNE DE COMMANDE FLUXCTL ET LE BINAIRE FLUX #K8S](https://www.youtube.com/watch?v=-7EacYxEa3c)
+  - [FLUXCD - 66. CONFIGURATION HTTPS, SECRETS ET ROLLOUT #K8S](https://www.youtube.com/watch?v=jKE8gqb6KtQ)
+  - [FLUXCD - 67. FLUXCTL : RELEASE, IMAGES, COMMIT #K8S](https://www.youtube.com/watch?v=ggE89mySZXA)
+  - [FLUXCD - 68. GESTION MULTI-ENVIRONNEMENT #K8S](https://www.youtube.com/watch?v=TeqwBfuNp1s)
+
 ## TUTORIALS LINUX FR
-  - [LINUX - 1.1 HARDWARE : L'ALIMENTATION ET L'ENERGIE](https://www.youtube.com/watch?v=-6MA0OCTXko)
+  - [LINUX - 1.1 HARDWARE : ALIMENTATION ET ENERGIE](https://www.youtube.com/watch?v=-6MA0OCTXko)
+  - [LINUX - 1.2 HARDWARE : LA CARTE MERE, SES BRIDGES ET SON HORLOGE](https://www.youtube.com/watch?v=LgOPxhutuoQ)
+  - [LINUX - 1.3 : HARDWARE : LE CPU, SES CACHES ET SES REGISTRES](https://www.youtube.com/watch?v=5mzN2NhhFjE)
 
 ## KUBERNETES MONITORING - PROMETHEUS/GRAFANA SANS HELM
   - [K8S - 58. PROMETHEUS : INSTALLATION SANS HELM ET AVEC NFS (ON PREMISE)](https://www.youtube.com/watch?v=Q21mpBL7p3k)
@@ -12,7 +303,7 @@
   - [BAREOS - 1. INTRODUCTION](https://www.youtube.com/watch?v=5DyDPGwJUqI)
   - [BAREOS - 2. NOTIONS ET DEFINITIONS](https://www.youtube.com/watch?v=Ie7A5ILeOd0)
 
-## TUTORIALS SSH FR
+## TUTORIALS ET FORMATION SSH
   - [SSH - 1. INTRODUCTION](https://www.youtube.com/watch?v=gclyVcmpRaM)
   - [SSH - 2. SSHD_CONFIG : PARAMETRES DE CONFIGURATION DU SERVEUR](https://www.youtube.com/watch?v=qrS1rSFb-1w)
   - [SSH - 3. GENERER UNE CLEF (SSH-KEYGEN, TYPES, SSH-COPY-ID)](https://www.youtube.com/watch?v=pLJC96zfwrE)
@@ -24,7 +315,8 @@
   - [SSH - 9. OUVRIR UN PROXY SOCKS](https://www.youtube.com/watch?v=8SlovOndKKg)
   - [SSH - 10. PASSER DES VARIABLES D'ENVIRONNEMENT](https://www.youtube.com/watch?v=GkoCeRtXWzc)
 
-## TUTORIALS ANSIBLE FR
+## TUTORIALS ET FORMATION ANSIBLE
+  - [ANSIBLE - 0. SOMMAIRE DE FORMATION](https://www.youtube.com/watch?v=kzmvwc2q_z0)
   - [ANSIBLE - 1. INTRODUCTION ET PRESENTATION](https://www.youtube.com/watch?v=Cisg9bLhLkk)
   - [ANSIBLE - 2. NOTIONS ET DEFINITIONS](https://www.youtube.com/watch?v=tirjpYSMkkM)
   - [ANSIBLE - 3. LES INSTALLATIONS (PIP, DEPOTS ET A SAVOIR)](https://www.youtube.com/watch?v=0P25aOuUyxY)
@@ -32,12 +324,12 @@
   - [ANSIBLE - 5. FICHIER CFG : CONFIGURATION ET TUNING](https://www.youtube.com/watch?v=8Hb-i9lXdXA)
   - [ANSIBLE- 6. LA COMMANDE ANSIBLE EN CLI](https://www.youtube.com/watch?v=JPohVKUEnbs)
   - [ANSIBLE - 7. LIGNE DE COMMANDE : ASTUCES AVEC LES MODULES](https://www.youtube.com/watch?v=blOKHSEs6IY)
-  - [ANSIBLE - 8. INVENTORY : SA STRUCTURE (GROUPES, HOSTS, FORMATS...)](https://www.youtube.com/watch?v=D8BUV1RYFjw)
+  - [ANSIBLE - 8. INVENTORY : SA STRUCTURE (GROUPES, HOSTS, FORMATS...YAML OU INI ?)](https://www.youtube.com/watch?v=D8BUV1RYFjw)
   - [ANSIBLE - 9. INVENTORY : LES VARIABLES D'INVENTAIRE (HOST_VARS, GROUP_VARS...)](https://www.youtube.com/watch?v=UuiRDRIJ-sM)
   - [ANSIBLE - 10. INVENTORY : LA COMMANDE ET LE GRAPH](https://www.youtube.com/watch?v=D6Ru-M04G4M)
   - [ANSIBLE - 11. PLAYBOOK : PREMIERS PAS ET OPTIONS](https://www.youtube.com/watch?v=yN29WlhIUrI)
   - [ANSIBLE - 12. MODULE FILE : DIRECTORY, SOFTLINK, DROITS, TOUCH...](https://www.youtube.com/watch?v=EmivDVqBqHw)
-  - [ANSIBLE - 13. IDEMPOTENCE & STATEFUL : ANSIBLE VS TERRAFORM !!!](https://www.youtube.com/watch?v=Lkqbd_hcQlI)
+  - [ANSIBLE - 13. ANSIBLE VS TERRAFORM : IDEMPOTENCE & STATEFUL !!](https://www.youtube.com/watch?v=Lkqbd_hcQlI)
   - [ANSIBLE- 14. GAGNEZ DU TEMPS : DEVELOPPEZ AVEC DOCKER (ASTUCE)](https://www.youtube.com/watch?v=aan0zpn2N-4)
   - [ANSIBLE- 15. MODULE USER : COMMENT CREER, SUPPRIMER, GERER DES UTILISATEURS](https://www.youtube.com/watch?v=O9KOT2jxBu4)
   - [ANSIBLE - 16. LE REGISTER ET LE MODULE STAT](https://www.youtube.com/watch?v=yI8duHq9HMY)
@@ -72,8 +364,84 @@
   - [ANSIBLE - 45. EX. MONITORING : AJOUT D'UN DASHBOARD ET DE L'ADMIN GRAFANA](https://www.youtube.com/watch?v=J9UuNS9vQXA)
   - [ANSIBLE - 46. MODULE DOCKER_IMAGE : IMPORTER, BUILDER, PULLER ET PUSHER DES IMAGES](https://www.youtube.com/watch?v=lSJYsgpv4sc)
   - [ANSIBLE - 47. MODULE DOCKER_CONTAINER : CREER DES CONTENEURS, HEALTHCHECK, PORTS, COMMANDE...](https://www.youtube.com/watch?v=LurnvbRu2DM)
+  - [ANSIBLE - 48. MODULE DOCKER NETWORK & DOCKER VOLUME](https://www.youtube.com/watch?v=p5ZWfa-8o6w)
+  - [ANSIBLE - 49. MDULES DOCKER DE COLLECTE D'INFOS](https://www.youtube.com/watch?v=ntt1iThqxCs)
+  - [ANSIBLE - 50. LE MODULE DOCKER-COMPOSE : AVEC OU SANS FICHIER](https://www.youtube.com/watch?v=a3MY7_odBH8)
+  - [ANSIBLE - 51. TP - MODULE DOCKER SWARM : INTIALISATION D'UN CLUSTER (PREREQUIS ET LEADER)](https://www.youtube.com/watch?v=RZE9iz89wX4)
+  - [ANSIBLE - 52. TP - MODULE DOCKER SWARM : INSTALLATION MANAGERS ET WORKERS](https://www.youtube.com/watch?v=BR7Pu33EbQ4)
+  - [ANSIBLE - 53. TP - MODULE DOCKER SWARM SERVICE : INSTALLATION DE TRAEFIK ET VISUALIZER](https://www.youtube.com/watch?v=ZnbHEKBi17w)
+  - [ANSIBLE - 54. TP - DOCKER NODE : DRAIN, REMOVE, MANIPULATION DE FACT](https://www.youtube.com/watch?v=hF31J9uG0wk)
+  - [ANSIBLE - 55. TP - DOCKER STACK : DEPLOYER UNE APPLICATION (DERRIERE TRAEFIK)](https://www.youtube.com/watch?v=5u-t_8DoPVk)
+  - [ANSIBLE - 56. ORGANISATION GIT : PLAYBOOKS, ROLES, DEPOTS](https://www.youtube.com/watch?v=xpdFvE-YJtA)
+  - [ANSIBLE - 57. SCRIPT : INSTALLER VOS DEPOTS GIT DE ROLES](https://www.youtube.com/watch?v=NJdyTHRR3bI)
+  - [ANSIBLE - 58. MODULE ADD_HOST, RAW & DOCKER (EX)](https://www.youtube.com/watch?v=Y-tjgw5vD4s)
+  - [ANSIBLE - 59. VAULT : CHIFFRER VOS SECRETS (UTILISATION SIMPLE)](https://www.youtube.com/watch?v=ceDcVPuN3HE)
+  - [ANSIBLE - 60. VAULT : EVITEZ ENCRYPT STRING](https://www.youtube.com/watch?v=VgiMMpFbcNw)
+  - [ANSIBLE - 61. CLI VAULT : ID ET MULTI-PASSWORD](https://www.youtube.com/watch?v=m0_2yg4K14w)
+  - [ANSIBLE - 62. MODULE MOUNT : MONTER DES SYSTEMES DE FICHIERS (EX : NFS)](https://www.youtube.com/watch?v=aMdbu0AASEk)
+  - [ANSIBLE - 63. ASTUCE : COMBINAISON INCLUDE VARS ET WITH FILEGLOB](https://www.youtube.com/watch?v=yAqtNFaaKsQ)
+  - [ANSIBLE - 64. ASTUCE : SET_FACT ET DEFINITION DE CLEFS/VALEURS (EX: TRAEFIK)](https://www.youtube.com/watch?v=hyCbpsHHNdc)
+  - [ANSIBLE - 65. MODULES : LVM, PARTED, FILESYSTEM ET MOUNT](https://www.youtube.com/watch?v=te7uwwh1ml8)
+  - [ANSIBLE - 66. MODULES EXPECT ET ASSERT : SAISIE EN CLI ET TESTS DE RESULTATS](https://www.youtube.com/watch?v=7kLXcZASm1c)
+  - [ANSIBLE - 67. ASYNC STATUS & JOBS : TACHES EN BACKGROUND](https://www.youtube.com/watch?v=sXhk7gwIcnE)
+  - [ANSIBLE - 68. ASTUCE : CLEANER ET ALLER VERS DU STATEFUL...](https://www.youtube.com/watch?v=-842720hqIA)
+  - [ANSIBLE - 69. MODULE IPTABLES : TP - MISE EN PLACE BASTION/SERVEURS](https://www.youtube.com/watch?v=xMbXX5AG8iM)
+  - [ANSIBLE - 70. TP VALORISATION : MODULE MYSQL/MARIADB](https://www.youtube.com/watch?v=I06DCZYTwgg)
+  - [ANSIBLE - 71. TP VALORISATION : INSERTION DE DATAS, WITH_RANDOM...](https://www.youtube.com/watch?v=Z8XaYHHgZrc)
+  - [ANSIBLE - 72. TP VALO : COLLECTE DE DATAS ET FACTS](https://www.youtube.com/watch?v=X3esBWVpIjQ)
+  - [ANSIBLE - 73. TP VALO : MISE EN HTML, JINJA...](https://www.youtube.com/watch?v=qN9NVOy_JsI)
+  - [ANSIBLE - 74. TP VALO : MODULE MAIL, ENVOYONS NOTRE SYNTHESE HTML](https://www.youtube.com/watch?v=PmpKA1FfZnQ)
+  - [ANSIBLE - 75. TP VALO : STOCKAGE MARIADB ET EXPLOITATION METABASE](https://www.youtube.com/watch?v=3Iaog7KYFnA)
+  - [ANSIBLE - 76. TP VALO : INSERTION ELASTICSEARCH ET KIBANA](https://www.youtube.com/watch?v=ZhUebCvPum4)
+  - [ANSIBLE - 77. AWX : INTRODUCTION](https://www.youtube.com/watch?v=TxujMdXLv1Y)
+  - [ANSIBLE - 78. AWX : INSTALLATION](https://www.youtube.com/watch?v=DNnzdlGgaa8)
+  - [ANSIBLE - 79. AWX : INTERFACE GRAPHIQUE](https://www.youtube.com/watch?v=2ROee0BR0so)
+  - [ANSIBLE - 80. AWX : LES PERMISSIONS (USERS, TEAMS, ORG...)](https://www.youtube.com/watch?v=BqLeYxpeeoo)
+  - [ANSIBLE - 81. AWX : INVENTORY, HOSTS ET CREDENTIALS](https://www.youtube.com/watch?v=FZJBrmpYEN8)
+  - [ANSIBLE - 82. AWX : CREER UN PROJET, UN TEMPLATE ET SCHEDULER UN JOB](https://www.youtube.com/watch?v=zAB8ravvcmg)
+  - [ANSIBLE - 83. AWX : SOURCE GIT ET WORKFLOW](https://www.youtube.com/watch?v=6zE-LIzAPI0)
+  - [ANSIBLE - 84. AWX : LES NOTIFICATIONS (EX : MAIL)](https://www.youtube.com/watch?v=WSM5rZwsfS0)
+  - [ANSIBLE - 85. AWS : L'INVENTAIRE DYNAMIQUE](https://www.youtube.com/watch?v=IQXdn5D6Rac)
+  - [ANSIBLE - 86. AWS : TP WORDPRESS ET KEY PAIRS (SSH)](https://www.youtube.com/watch?v=g0MoK-wzdLo)
+  - [ANSIBLE - 87. AWS : SECURITY GROUP ET INSTANCE EC2 - TP](https://www.youtube.com/watch?v=cWixVSyuLfE)
+  - [ANSIBLE - 88. AWS : ADD_HOST, WAIT_FOR ET CREATION DE VOLUMES EC2](https://www.youtube.com/watch?v=8HO4Rep4pNM)
+  - [ANSIBLE - 89. AWS : INSTALLATION DE VOLUME EBS ET DE MARIADB](https://www.youtube.com/watch?v=5nztOZIaAXQ)
+  - [ANSIBLE- 90. AWS : TP - INSTALLATION DE WORPDRESS ET VOLUMES EBS](https://www.youtube.com/watch?v=2tLfBB8LKZs)
+  - [ANSIBLE - 91. AWS TP : ORGANISATION DES ROLES, VARIABLES...](https://www.youtube.com/watch?v=ZRubBpLaz58)
+  - [ANSIBLE - 92. AWS TP : SUPPRESSION DES EC2, SECURITY GROUP ET KEY PAIRS](https://www.youtube.com/watch?v=GEHjR4T2b-0)
+  - [ANSIBLE - 93. LE MODULE GIT : CLONE, SSH, HTTPS... (EX: APP PYTHON)](https://www.youtube.com/watch?v=XanggQUqVb4)
+  - [ANSIBLE - 94. MODULE FIND : RECHERCHER DES FICHIERS/DIR, PATTERNS, AGE, SIZE...](https://www.youtube.com/watch?v=vRq78gMkOUQ)
+  - [ANSIBLE - 95. TP ELK : INSTALLATION DU ROLE ELASTICSEARCH (GALAXY)](https://www.youtube.com/watch?v=McpKVpYV8NU)
+  - [ANSIBLE - 96. TP ELK : INSTALLATION DE LOGSTASH](https://www.youtube.com/watch?v=NV4tsGbLZ74)
+  - [ANSIBLE - 97. TP ELK : INSTALLATION DE KIBANA](https://www.youtube.com/watch?v=P3CDd1sL5yQ)
+  - [ANSIBLE - 98. PLUGINS : LES CALLBACKS POUR UN OUTPUT PLUS FACILE](https://www.youtube.com/watch?v=q4A7EA5DKCc)
+  - [ANSIBLE - 99. PLUGIN LOGSTASH : ENVOYEZ VOS LOGS DE PLAYBOOK DANS ELK](https://www.youtube.com/watch?v=D01GgBvvJs8)
+  - [ANSIBLE - 100. MONITORING / LOGGING : ELK ET PROMETHEUS/GRAFANA](https://www.youtube.com/watch?v=WMK3DjDjKCw)
+  - [ANSIBLE - 101. TP COMPIL : INSTALLATION ELASTICSEARCH EXPORTER + DASHBOARD](https://www.youtube.com/watch?v=_WxlrdTGarw)
+  - [ANSIBLE - 102. TP COMPIL : INSTALLATION DE FILEBEAT](https://www.youtube.com/watch?v=UtoBzannP2M)
+  - [ANSIBLE - 103. TP COMPIL : AJOUT DU CLUSTER SWARM](https://www.youtube.com/watch?v=imdSYpjimc8)
+  - [ANSIBLE - 104. TP COMPIL : METRICS ET LOGS DOCKER (CADVISOR)](https://www.youtube.com/watch?v=PdggfKrDSpQ)
+  - [ANSIBLE - 105. JINJA : LISTES, DICTIONNAIRES ET BOUCLES](https://www.youtube.com/watch?v=_Dv3imhHVAw)
+  - [ANSIBLE - 106. JINJA : LES CONDITIONS](https://www.youtube.com/watch?v=mFlh17Tpgxk)
+  - [ANSIBLE - 107. JINJA2 : LES FILTRES SUR LES STRINGS ET LES LISTES](https://www.youtube.com/watch?v=KUkOghU7BYE)
+  - [ANSIBLE - 108. JINJA : FILTRES ET MANIPULATIONS MOINS COURANTES](https://www.youtube.com/watch?v=9W0DesiDvGU)
+  - [ANSIBLE - 109. JINJA2 REGEX & RAW :  REPLACE, FINDALL, SEARCH, ESCAPE](https://www.youtube.com/watch?v=i_zI1svOWRo)
+  - [ANSIBLE - 100. JINJA : MANIPULATION D'URLS ET DE DATES/HEURES](https://www.youtube.com/watch?v=E-aZSU6_haM)
+  - [ANSIBLE - 111. JINJA : UTILISER LES VARIABLES D'UN AUTRE GROUPE ??](https://www.youtube.com/watch?v=QKgNCOXyl_A)
+  - [ANSIBLE - 112. JINJA : TP - HTML, FOR, SET](https://www.youtube.com/watch?v=ICnMmkn6CEg)
+  - [ANSIBLE - 113. JINJA : JSON / YAML & TO / FROM](https://www.youtube.com/watch?v=cutctcoDrTo)
+  - [ANSIBLE - 114. JINJA : QUERY JSON, SUM...](https://www.youtube.com/watch?v=TtOKceCC5YY)
+  - [ANSIBLE - 115. LES STRATEGIES : SERIAL, LINEAR, FREE, THROTTLE...](https://www.youtube.com/watch?v=qxM5WGCjkbM)
+  - [ANSIBLE - 116. ANSIBLE-PULL : PREMIER RUN](https://www.youtube.com/watch?v=rV0EUE_prjA)
+  - [ANSIBLE - 117. ANSIBLE-PULL : INVENTAIRE ET SECRETS (VAULT)](https://www.youtube.com/watch?v=TGm_giJu63I)
+  - [ANSIBLE - 118. COMBINER ANSIBLE PULL & PUSH POUR LE MEILLEUR....](https://www.youtube.com/watch?v=Anb0iIV99s0)
+  - [ANSIBLE - 119. ANSIBLE PULL AVEC UN PRESEED](https://www.youtube.com/watch?v=PNExJ3E3468)
+  - [ANSIBLE - 120. PACKER : PLAYBOOK, VAULT, PULL](https://www.youtube.com/watch?v=54eREouCVsE)
+  - [ANSIBLE - 121. UTILISATION AVEC PROVISIONNING VAGRANT](https://www.youtube.com/watch?v=dWcDBMbPKD8)
+  - [ANSIBLE - 122. CREER UN MODULE : LES OBJECTIFS ET TEST PYTHON](https://www.youtube.com/watch?v=TN303ZvqT4E)
+  - [ANSIBLE - 123. CREATION MODULE : LA STRUCTURE (DOCUMENTATION, IMPORTS, MAIN)](https://www.youtube.com/watch?v=jHANhZ_w5uc)
 
-## TUTORIALS TRAEFIK - DEBUTANT
+## TUTORIALS ET FORMATION TRAEFIK
   - [TRAEFIK - 1. INTRODUCTION](https://www.youtube.com/watch?v=28xCGx3fgSI)
   - [TRAEFIK - 2. PRINCIPES ET DEFINITIONS](https://www.youtube.com/watch?v=js7XTDAmU0c)
   - [TRAEFIK - 3. INSTALLATION BINAIRE & INTERFACE GRAPHIQUE](https://www.youtube.com/watch?v=7n06JiR9fwM)
@@ -116,14 +484,14 @@
   - [KVM - 2. INSTALLATION](https://www.youtube.com/watch?v=f8W_Zre54XA)
   - [KVM - 3. VIRT MANAGER : PREMIERE MACHINE VIRTUELLE](https://www.youtube.com/watch?v=8krE9UaUylM)
   - [KVM - 4. VIRT INSTALL : PREMIERE VM VIA LA CLI](https://www.youtube.com/watch?v=pWf-U8Q7gxI)
-  - [KVM - 5. VIRSH : PREMIERE MACHINE EN XML](https://www.youtube.com/watch?v=O6uJtSZW280)
+  - [KVM/QEMU - 5. VIRSH : PREMIERE MACHINE EN XML](https://www.youtube.com/watch?v=O6uJtSZW280)
   - [KVM - 6. VIRT INSTALL : UTILISATION D'UN PRESEED (EX : DEBIAN)](https://www.youtube.com/watch?v=oZPk381zsW4)
   - [KVM - 7. LES RESEAUX : CREER UN NAT (ET DHCP + IP STATIQUE)](https://www.youtube.com/watch?v=wgbtNnkU30w)
   - [KVM - 8. INSTALLATiON D'UNE VM VIA VIRT-BUILDER](https://www.youtube.com/watch?v=3MSTl5GXUCI)
   - [KVM - 9. CHANGER LE MOT DE PASSE ROOT VIA UN QCOW](https://www.youtube.com/watch?v=s_tMXEOeIQg)
   - [KVM - 10. COMMENT AJOUTER UN DISQUE A UNE VM ?](https://www.youtube.com/watch?v=v9fnNJq_oR0)
 
-## TUTORIALS PACKER - DEBUTANT
+## TUTORIALS ET FORMATION PACKER
   - [PACKER - 1. INTRODUCTION](https://www.youtube.com/watch?v=Im0LxTzKHZA)
   - [PACKER - 2. INSTALLATION](https://www.youtube.com/watch?v=wtvWv5N-D6o)
   - [PACKER - 3. PREMIERE IMAGE : UBUNTU AVEC PRESEED POUR VIRTUALBOX](https://www.youtube.com/watch?v=zWj8qlSWnh4)
@@ -136,13 +504,13 @@
   - [LA PATIENCE - MINDSET #2](https://www.youtube.com/watch?v=UutXtCa6fGM)
   - [APPRENDRE && COMPRENDRE - MINDSET #3](https://www.youtube.com/watch?v=UtmsB5WJ-dY)
 
-## TUTORIALS TERRAFORM - DEBUTANT
+## TUTORIALS ET FORMATION TERRAFORM
   - [TERRAFORM - 1. INTRODUCTION ET PRESENTATION](https://www.youtube.com/watch?v=_6AITxe5iVc)
   - [TERRAFORM - 2. INSTALLATION ET HELLO WORLD](https://www.youtube.com/watch?v=7gtzumVHZtE)
   - [TERRAFORM - 3. DEFINITIONS ET NOTIONS](https://www.youtube.com/watch?v=MHKVkNSAJWc)
   - [TERRAFORM - 4. VARIABLES ET LOCAL_EXEC : STRING, LISTE ET MAP](https://www.youtube.com/watch?v=LmHKEiZ1SeA)
   - [TERRAFORM - 5. VARIABLES : LA PRECEDENCE OU NIVEAUX DE DECLARATION (.TFVARS...)](https://www.youtube.com/watch?v=4l_y3D58_iE)
-  - [#TERRAFORM - 6. REMOTE_EXEC & FILE : COMMANDES VIA SSH - EX: #NGINX](https://www.youtube.com/watch?v=vh58fGiGj-A)
+  - [TERRAFORM - 6. REMOTE_EXEC & FILE : COMMANDES VIA SSH - EX: #NGINX](https://www.youtube.com/watch?v=vh58fGiGj-A)
   - [TERRAFORM - 7. REMOTE_EXEC : INSTALLATION DE DOCKER ET SA SOCKET](https://www.youtube.com/watch?v=huR8567SSQQ)
   - [TERRAFORM - 8. PROVIDER DOCKER : IMAGE ET CONTENEUR](https://www.youtube.com/watch?v=TidvqDcq2Qw)
   - [TERRAFORM - 9. LES MODULES : INTRODUCTION](https://www.youtube.com/watch?v=ahdsbN5-UYg)
@@ -176,8 +544,9 @@
 ## RH ET CARRIERES
   - [RH. 1 - COMMENT NEGOCIER UN PLUS GROS SALAIRE A L'EMBAUCHE ?](https://www.youtube.com/watch?v=TSG2F2k5g0E)
   - [RH - 2. AVEC OU SANS DIPLOME ? EMBAUCHE, CARRIERE...](https://www.youtube.com/watch?v=iR0l72_aKuc)
+  - [Mes entretiens d'embauches...](https://www.youtube.com/watch?v=pWY5DrRv6kc)
 
-## ACTIVE DIRECTORY / POWERSHELL
+## TUTORIALS ET FORMATION ACTIVE DIRECTORY / POWERSHELL
   - [ACTIVE DIRECTORY / POWERSHELL - 1. INTRODUCTION ET PRESENTATION](https://www.youtube.com/watch?v=o_ex8ZdAVoI)
   - [ACTIVE DIRECTORY / POWERSHELL - 1. INTRODUCTION PARTIE 2](https://www.youtube.com/watch?v=knu2LhGydhM)
   - [ACTIVE DIRECTORY - 2. INSTALLATION GRAPHIQUE ET POWERSHELL](https://www.youtube.com/watch?v=605JtJC_Lgo)
@@ -186,21 +555,11 @@
   - [ACTIVE DIRECTORY - 5. AUTORISATIONS DE PARTAGE](https://www.youtube.com/watch?v=bGJp_skp25M)
   - [AD - 6. AUTORISATIONS DE PARTAGE SUITE](https://www.youtube.com/watch?v=iIXnu15rPMU)
   - [AD - 6. AUTORISATIONS DE PARTAGE SUITE](https://www.youtube.com/watch?v=iIXnu15rPMU)
-
-## Tutos de Jérôme Bezet-Torres
-  - [LES TUTOS DE JEROME BEZET-TORRES : INTRODUCTION](https://www.youtube.com/watch?v=8T-PO3PtbjM)
-  - [ACTIVE DIRECTORY / POWERSHELL - 1. INTRODUCTION ET PRESENTATION](https://www.youtube.com/watch?v=o_ex8ZdAVoI)
-  - [ACTIVE DIRECTORY / POWERSHELL - 1. INTRODUCTION PARTIE 2](https://www.youtube.com/watch?v=knu2LhGydhM)
-  - [ACTIVE DIRECTORY - 2. INSTALLATION GRAPHIQUE ET POWERSHELL](https://www.youtube.com/watch?v=605JtJC_Lgo)
-  - [ACTIVE DIRECTORY - 3. LES OBJETS](https://www.youtube.com/watch?v=RaPENYRF5XM)
-  - [ACTIVE DIRECTORY / POWERSHELL - 4. OU : LES UNITES D'ORGANISATION](https://www.youtube.com/watch?v=aD9y1fR6Bw4)
-  - [ACTIVE DIRECTORY - 5. AUTORISATIONS DE PARTAGE](https://www.youtube.com/watch?v=bGJp_skp25M)
 
 ## AWS - SAISON 2
   - [AWS 2.1 - IAM : SECURITE MFA, GROUPES, ROLES, PASSWORD](https://www.youtube.com/watch?v=mzGQd1DdSoU)
   - [AWS - 2.2. SON INFRASTRUCTURE : REGIONS, AZ, DC, POPS...](https://www.youtube.com/watch?v=r-aCutxDLd8)
   - [AWS - 2.3 LE RESEAU : LES PRINCIPES (VPC, IGW, NACL, SG...)](https://www.youtube.com/watch?v=ivY3_-jrwrY)
-  - [AWS - 2.4. CREATION D'UN VPC, INTERNET GATEWAY ET SUBNETS](https://www.youtube.com/watch?v=31Os2uQIaec)
   - [AWS - 2.4. CREATION D'UN VPC, INTERNET GATEWAY ET SUBNETS](https://www.youtube.com/watch?v=31Os2uQIaec)
 
 ## HARNESS - CONTINUOUS DEPLOYMENT
@@ -214,7 +573,7 @@
   - [KAISEN LINUX - 5. CONSTRUCTION DU REFERENTIEL/DEPOT APT](https://www.youtube.com/watch?v=5DYCgWVU0xQ)
   - [KAISEN LINUX - POUSSER UNE NOUVELLE VERSION D'UN PAQUET + SU/SUDO](https://www.youtube.com/watch?v=RLJWblqi9GA)
 
-## TUTORIALS  CASSANDRA - DEBUTANT
+## TUTORIALS  ET FORMATION CASSANDRA - DEBUTANT
   - [CASSANDRA - 1. INTRODUCTION ET NOSQL](https://www.youtube.com/watch?v=sVsdyx1o2oc)
   - [CASSANDRA - 2. NOTIONS : ACID VS CAP THEOREM VS BASE VS PROTOCOLE PAXOS](https://www.youtube.com/watch?v=jZK89Qo8CvQ)
   - [CASSANDRA - 3. INSTALLATION : DEBIAN ET DOCKER](https://www.youtube.com/watch?v=wyPFHpgtgTs)
@@ -253,7 +612,7 @@
   - [Actus Devops : Lidl cloud, aws kendra, ansible gitops...](https://www.youtube.com/watch?v=U7DKbjpirqg)
   - [Actus Devops : Zwindler, grafana 7.0, ELK 7.7.0, harbor, SRE...](https://www.youtube.com/watch?v=2XLEcm4L8Hc)
 
-## TUTORIALS ELK FR
+## TUTORIALS ET FORMATION ELK
   - [ELK - 0. TUTOS ET AUTOFORMATION FR](https://www.youtube.com/watch?v=dxPhnkGAt7Y)
   - [ELK - 1. INTRODUCTION ET PRINCIPES](https://www.youtube.com/watch?v=FIIWGs65Gi0)
   - [ELK - 2. INSTALLATION #ELASTICSEARCH](https://www.youtube.com/watch?v=tdyzluB9PkQ)
@@ -265,6 +624,7 @@
   - [ELK - 8. FILEBEAT : LES INPUTS DE TYPE LOG](https://www.youtube.com/watch?v=X3OXO4C0wR8)
   - [ELK - 9. FILEBEAT : INPUT CONTAINER ET TCP](https://www.youtube.com/watch?v=_eQWPGpJZ1k)
   - [ELK - 10. LOGSTASH : MULTI INPUT FILEBEAT ET MULTI-INDEX](https://www.youtube.com/watch?v=vdTKH_mFcak)
+  - [ELK - 11. FILEBEAT : OUTPUT POUR LOGSTASH](https://www.youtube.com/watch?v=yqWXM9Yw5As)
   - [ELK - 12. FILEBEAT : OUTPUT VERS KAFKA](https://www.youtube.com/watch?v=3jiADy15Bac)
   - [ELK - 13. FILEBEAT : OUTPUT DE TYPE FILE OU CONSOLE](https://www.youtube.com/watch?v=4MVQQkiAZVk)
   - [ELK - 14. FILEBEAT : COMMUNIQUER EN TLS/SSL AVEC LOGSTASH](https://www.youtube.com/watch?v=Ql9p7YYyDqo)
@@ -352,14 +712,6 @@
   - [LIVEKI #5 - DECOUVERTE DE TRAEFIK ET DES OUTILS CONTAINOUS (AVEC MICHAEL MATUR)](https://www.youtube.com/watch?v=hvQTXuuLoK0)
   - [LIVEKI - 6. GRAFANA : DASHBOARDS AS CODE](https://www.youtube.com/watch?v=RrbYuCo3k44)
 
-## KrustyHack
-  - [Kubernetes The Hard Way : comment créer un cluster Kubernetes complet à la main "From Scratch"](https://www.youtube.com/watch?v=jGRKFHV6UUc)
-  - [AWS Lightsail : Installer Wordpress en 5 minutes](https://www.youtube.com/watch?v=BCnDT1ahnbI)
-  - [Security & Hacking: comment hacker Gmail malgré la 2FA avec Modlishka](https://www.youtube.com/watch?v=YruRqM0Y614)
-  - [Kubernetes : comment facilement déployer Kubernetes sur Google GKE - Expliqué de A à Z](https://www.youtube.com/watch?v=7h86sOfDaC4)
-  - [Kubernetes : Histoire et Origine de Kubernetes](https://www.youtube.com/watch?v=OYjQaVgxKe8)
-  - [Kubernetes : Démo rapide de Kubernetes External Secrets](https://www.youtube.com/watch?v=OEuAGQnRxhE)
-
 ## KUBESPRAY - INITIATION
   - [Kubernetes - 34. Kubespray : préparation des VM  (vagrantfile) | tutos fr](https://www.youtube.com/watch?v=kXzxGSYl7Ss)
   - [Kubernetes - 35. Kubespray : déployer un cluster avec ansible](https://www.youtube.com/watch?v=dmYPGpaLnf8)
@@ -368,7 +720,7 @@
   - [KUBERNETES - 38. HAUTE DISPO : INSTALLATION DU CLUSTER ET TESTS](https://www.youtube.com/watch?v=mbSecyM3OJw)
 
 ## RANCHER - INITIATION
-  - [K8S - 41. RANCHER : PRESENTATION](https://www.youtube.com/watch?v=FKPloC6nSHI)
+  - [K8S - 41. RANCHER : INTRODUCTION](https://www.youtube.com/watch?v=FKPloC6nSHI)
   - [K8S - 42. RANCHER : INSTALLATION ET AJOUT D'UN CLUSTER](https://www.youtube.com/watch?v=TvBhCuhxZnc)
   - [K8S - 43. RANCHER : MONITORING AVEC PROMETHEUS/GRAFANA](https://www.youtube.com/watch?v=Oudd-tuGVXM)
   - [K8S - 44. RANCHER : PROJETS ET UTILISATEURS](https://www.youtube.com/watch?v=Rv4XSsEAGJE)
@@ -454,8 +806,10 @@
 
 ## CONTENEURS STORY
   - [Conteneurs Story - 0. Intermodal : un peu d'histoire...](https://www.youtube.com/watch?v=5SvQN-pCL5g)
+  - [CONTENEURS - 01. RUNC : INTRODUCTION](https://www.youtube.com/watch?v=UfziwYwPSsM)
+  - [CONTENEURS - 2. RUNC : OCI ET PREMIER RUN](https://www.youtube.com/watch?v=pkVYOtvSvck)
 
-## PYTHON - DÉBUTER
+## TUTORIALS ET FORMATION PYTHON
   - [PYTHON - 1. INTRO ET LES STRINGS](https://www.youtube.com/watch?v=4PcdtrBtHrM)
   - [Python - 2. String : méthodes & fonctions...](https://www.youtube.com/watch?v=mXO_SvoSeMc)
   - [Python - 3. Les numériques : integers et floats](https://www.youtube.com/watch?v=53nbYzW5DuI)
@@ -486,12 +840,12 @@
   - [PYTHON - 27. API YOUTUBE : AUTHENTIFICATION (PATH, PICKLE, GOOGLE LIBS)](https://www.youtube.com/watch?v=bEnp8Qdi2Oc)
   - [PYTHON - 28. API YOUTUBE : RECUPERER LES COMMENTAIRES](https://www.youtube.com/watch?v=DHiTuMboqVI)
 
-## DEVENIR  DEVOPS CI/CD - DEBUTANT | TUTOS FR
+## FORMATION ET TUTORIALS DEVOPS
   - [DEVENIR DEVOPS - 1.1. PRÉSENTATION ET OBJECTIFS | FR](https://www.youtube.com/watch?v=tiSfXCM8VTw)
   - [DEVENIR DEVOPS - 1.2. QU'EST-CE QUE LE DEVOPS ?](https://www.youtube.com/watch?v=yNI4-1HfiGE)
   - [DEVENIR DEVOPS - 1.3. LES METHODES : AGILE, SCRUM, FAIL FAST...](https://www.youtube.com/watch?v=qEkL5o6PZ78)
   - [INGENIEUR DEVOPS - 1.4. LA BOITE A OUTILS TECHNIQUES](https://www.youtube.com/watch?v=pTuUH8qugrU)
-  - [DEVENIR DEVOPS - 1.5. L'INGENIEUR DEVOPS ET SES TECHNOLOGIES](https://www.youtube.com/watch?v=4greqI3RC_k)
+  - [FORMATION DEVOPS - 1.5. L'INGENIEUR DEVOPS ET SES TECHNOLOGIES](https://www.youtube.com/watch?v=4greqI3RC_k)
   - [DEVENIR DEVOPS - 1.6. GIT ET SON GITFLOW](https://www.youtube.com/watch?v=ro3ouEyzFzY)
   - [Pipeline Devops - 1.7. Infrastructure cible : pour déployer sur son laptop avec vagrant | tutos fr](https://www.youtube.com/watch?v=eQZkQGV_2og)
   - [Pipeline Devops - 1.8. Vagrant : installation, notions et CLI | tutos fr](https://www.youtube.com/watch?v=Q0bIwwZj0JI)
@@ -589,7 +943,7 @@
   - [Raspberry Pi - 14. Haproxy/Ansible : mise en place de routes et d'un nom de domaine](https://www.youtube.com/watch?v=DBW5Rpp1Ku4)
   - [Raspberry Pi - 15. Let's Encrypt : automatiser sa mise en place avec ansible/haproxy | tutos fr](https://www.youtube.com/watch?v=wRsheXLh4QY)
 
-## PROMETHEUS / GRAFANA : DEBUTANT ET PLUS
+## TUTORIALS ET FORMATION PROMETHEUS / GRAFANA
   - [PROMETHEUS / GRAFANA - 0. FORMATIONS](https://www.youtube.com/watch?v=wcTr8Hm7SCQ)
   - [PROMETHEUS - 1. INTRODUCTION ET INSTALLATION](https://www.youtube.com/watch?v=ti0YEPZAxMk)
   - [GRAFANA - 2. INSTALLATION](https://www.youtube.com/watch?v=ecspEOdtPDc)
@@ -631,7 +985,7 @@
   - [GRAFANA - 38. ALERTING : EXEMPLE DE SLACK](https://www.youtube.com/watch?v=J5e3oEFYsTs)
   - [PROMETHEUS - 39. BLACKBOX : EXPORTER DE TESTS HTTP, DNS, TLS ET AUTRES](https://www.youtube.com/watch?v=uQCg8WA9zm4)
 
-## LXC/LXD : conteneurs linux (installer, configurer, découvrir)
+## TUTORIALS ET FORMATION LXC/LXD
   - [LXC/LXD - 0. FORMATIONS](https://www.youtube.com/watch?v=aUOIzP7paGw)
   - [LXC/LXD - 1. INTRODUCTION](https://www.youtube.com/watch?v=NeiNtQpGYvw)
   - [LXC/LXD - 2. INSTALLATION](https://www.youtube.com/watch?v=7SOTKSMpFQA)
@@ -661,7 +1015,7 @@
   - [Netdata - 5. InfluxDB : stockage de smétriques en TSDB](https://www.youtube.com/watch?v=TXRkPNJ2uxA)
   - [Netdata - 6. Registry multihosts](https://www.youtube.com/watch?v=cHOiNb0DRw8)
 
-## JMETER - DEBUTANT
+## TUTORIALS ET FORMATION JMETER
   - [Jmeter - 0. FORMATIONS](https://www.youtube.com/watch?v=NJvyU1lsMns)
   - [Jmeter - 1. Introduction et présentation - tutos fr](https://www.youtube.com/watch?v=kuJNDFlngB4)
   - [JMeter - 3. Définitions](https://www.youtube.com/watch?v=cKb5r9EJ7bo)
@@ -706,14 +1060,15 @@
   - [MESH - 4. Linkerd : installation du reverse-proxy sidecar](https://www.youtube.com/watch?v=Q8hH89Y5Axk)
   - [MESH - 5. Conclusion et tests](https://www.youtube.com/watch?v=ekaT1ECbnHw)
 
-## POSTGRESQL - DEBUTANT ET PLUS | TUTOS FR
+## TUTORIALS ET FORMATION POSTGRESQL
   - [POSTGRESQL - 0. FORMATIONS](https://www.youtube.com/watch?v=_LmASWXwdoM)
   - [POSTGRESQL - 1. INTRODUCTION | TUTOS FR](https://www.youtube.com/watch?v=gBgqJbW8kXE)
   - [POSTGRESQL - 2. INSTALLATION ET REPERTOIRES](https://www.youtube.com/watch?v=s8TC-5ofyJI)
   - [POSTGRESQL - 3. PRINCIPAUX BINAIRES](https://www.youtube.com/watch?v=omgy0PuTULs)
   - [PostgreSQL - 4. Procédures arrêt et démarrage | tutos fr](https://www.youtube.com/watch?v=xwyqJPeW8Fs)
-  - [PostgreSQL - 6. Fonctionnement : la mémoire | tutos fr](https://www.youtube.com/watch?v=fu_GzTCyVsU)
   - [PostgreSQL - 5. Fonctionnement : les processus | tutos fr](https://www.youtube.com/watch?v=xZ_RmnMSGYQ)
+  - [PostgreSQL - 6. Fonctionnement : la mémoire | tutos fr](https://www.youtube.com/watch?v=fu_GzTCyVsU)
+  - [PostgreSQL - 7. Fonctionnement : principaux répertoires](https://www.youtube.com/watch?v=5HDqQU_uHQs)
   - [PostgreSQL - 8. Autorisation d'accès : le pg_hba | tutos fr](https://www.youtube.com/watch?v=gBQ_deUzs28)
   - [PostgreSQL - 9. psql : intéragir avec vos instances | tutos fr](https://www.youtube.com/watch?v=Vn9yyEVHV0E)
   - [PostgreSQL - 10. Les Databases : templates, création... | tutos fr](https://www.youtube.com/watch?v=tt-SAbTTWt8)
@@ -740,7 +1095,6 @@
   - [PostgreSQL - 30. Xinetd / Haproxy : gestion de failover et multi-lectures | tutos fr](https://www.youtube.com/watch?v=ejA_FQ3Yk4U)
   - [PostgreSQL - 31. PG_BASEBACKUP : sauvegarde et restauration physique | tutos fr](https://www.youtube.com/watch?v=lHTu9iwU_c4)
   - [PostgreSQL - 32. PITR : WAL + pg-basebackup pour une restauration en toute facilité | tutos fr](https://www.youtube.com/watch?v=kBU2Jdt9Iv8)
-  - [PostgreSQL - 7. Fonctionnement : principaux répertoires](https://www.youtube.com/watch?v=5HDqQU_uHQs)
 
 ## RASPBERRY - CLUSTER KUBERNETES - TUTORIALS
   - [PiKub - 0. Kubernetes et Raspberry : le projet et merci !!](https://www.youtube.com/watch?v=ckG0CtCxtrM)
@@ -760,7 +1114,7 @@
   - [HTTPS : PRINCIPES](https://www.youtube.com/watch?v=z95Xd5tot8M)
   - [SSH : PRINCIPES](https://www.youtube.com/watch?v=3-MDtASgSo8)
 
-## KUBERNETES - DEBUTANT ET PLUS | TUTOS FR
+## TUTORIALS ET FORMATION KUBERNETES
   - [KUBERNETES - FORMATIONS POUR DEBUTER | TUTOS FR #0](https://www.youtube.com/watch?v=37VLg7mlHu8)
   - [KUBERNETES - 1. INTRODUCTION | TUTOS FR](https://www.youtube.com/watch?v=vFfngcRPj9M)
   - [KUBERNETES - 2. NOTIONS ET DÉFINITIONS | TUTOS FR](https://www.youtube.com/watch?v=Ew7QigU8JMQ)
@@ -804,11 +1158,11 @@
   - [KUBERNETES - 39. INSTALLATION DU INGRESS CONTROLLER NGINX](https://www.youtube.com/watch?v=0RTxzGCLpPE)
   - [KUBERNETES - 40. PREMIER INGRESS EXEMPLE](https://www.youtube.com/watch?v=4tDu39Ks0g0)
   - [K8S - 42. RANCHER : INSTALLATION ET AJOUT D'UN CLUSTER](https://www.youtube.com/watch?v=TvBhCuhxZnc)
-  - [K8S - 41. RANCHER : PRESENTATION](https://www.youtube.com/watch?v=FKPloC6nSHI)
+  - [K8S - 41. RANCHER : INTRODUCTION](https://www.youtube.com/watch?v=FKPloC6nSHI)
   - [K8S - 43. RANCHER : MONITORING AVEC PROMETHEUS/GRAFANA](https://www.youtube.com/watch?v=Oudd-tuGVXM)
   - [K8S - 44. RANCHER : PROJETS ET UTILISATEURS](https://www.youtube.com/watch?v=Rv4XSsEAGJE)
-  - [K8S - 46. RANCHER : INSTALLER UN CLUSTER RKE](https://www.youtube.com/watch?v=USS5GOzXwBQ)
   - [K8S - 45. RANCHER : EXPORT DES LOGS VERS ELK](https://www.youtube.com/watch?v=Vdy1mcDvglY)
+  - [K8S - 46. RANCHER : INSTALLER UN CLUSTER RKE](https://www.youtube.com/watch?v=USS5GOzXwBQ)
   - [K8S - 47. RANCHER : SAUVEGARDE RESTAURATION D'UN CLUSTER](https://www.youtube.com/watch?v=WYA8PTop4Cw)
   - [K3S - 48. INTRODUCTION ET MASTER](https://www.youtube.com/watch?v=JLnjMCRLcCo)
   - [K3S - 49. CLUSTER : AJOUT D'UN WORKER](https://www.youtube.com/watch?v=ahavAvGau_4)
@@ -825,6 +1179,12 @@
   - [K8S - 60. MONITORING DE PODS : EXEMPLE AVEC REDIS ET SON EXPORTER](https://www.youtube.com/watch?v=j7iF-i1UAMc)
   - [K8S - 61. MONITORING : INSTALLATION DE GRAFANA (INGRESS, PV, DEPLOYMENT...)](https://www.youtube.com/watch?v=oO95QbLctJs)
   - [K8S - 62. MONITORING : MISE EN PLACE DE CADVISOR ET DASHBOARDS](https://www.youtube.com/watch?v=q7bf4NrCQwE)
+  - [K8S - 63. FLUX CD : INTRODUCTION POUR DEBUTER #GITOPS](https://www.youtube.com/watch?v=yUvYi6obLgM)
+  - [FLUXCD - 64. INSTALLATION ET PREMIER SYNC #K8S](https://www.youtube.com/watch?v=h-EIzE56hEw)
+  - [FLUXCD - 65. LIGNE DE COMMANDE FLUXCTL ET LE BINAIRE FLUX #K8S](https://www.youtube.com/watch?v=-7EacYxEa3c)
+  - [FLUXCD - 66. CONFIGURATION HTTPS, SECRETS ET ROLLOUT #K8S](https://www.youtube.com/watch?v=jKE8gqb6KtQ)
+  - [FLUXCD - 67. FLUXCTL : RELEASE, IMAGES, COMMIT #K8S](https://www.youtube.com/watch?v=ggE89mySZXA)
+  - [FLUXCD - 68. GESTION MULTI-ENVIRONNEMENT #K8S](https://www.youtube.com/watch?v=TeqwBfuNp1s)
 
 ## Ansible - S02. Haproxy et Consul
   - [Ansible - 2.1. Installation de haproxy (roles, apt, services) | tutos fr](https://www.youtube.com/watch?v=x6jtqPmquOU)
@@ -837,7 +1197,7 @@
   - [Ansible - 2.8. Installation Consul-Template](https://www.youtube.com/watch?v=lHnWgjwiuIc)
   - [Ansible - 2.9. Blockinfile et test de consul-template](https://www.youtube.com/watch?v=wgvv8VBzqCo)
 
-## JENKINS - DEBUTANT ET PLUS | TUTOS FR
+## TUTORIALS ET FORMATION JENKINS
   - [JENKINS - 0. FORMATIONS](https://www.youtube.com/watch?v=RT8bPtiOAq8)
   - [JENKINS - 1. INTRODUCTION ET INSTALLATION | TUTOS FR](https://www.youtube.com/watch?v=Gy4Nk2pIuNs)
   - [JENKINS - 2. PREMIER JOB](https://www.youtube.com/watch?v=WTJNKAcgihE)
@@ -874,7 +1234,7 @@
   - [Jenkins - 33. Librairies : installation et HelloWorld | tutos fr](https://www.youtube.com/watch?v=BdqijwYb7zQ)
   - [Jenkins - 34. Librairies : passage de variables | tutos fr](https://www.youtube.com/watch?v=NXmSnEZxSmM)
 
-## HAPROXY - DEBUTANT ET PLUS
+## TUTORIALS ET FORMATION HAPROXY
   - [HAPROXY - 1. INTRODUCTION ET PRESENTATION](https://www.youtube.com/watch?v=inVviPzjIVU)
   - [HAPROXY - 1. INSTALLATION](https://www.youtube.com/watch?v=i-UaO10ssww)
   - [Haproxy - 3. Un échange en étapes | tutos fr](https://www.youtube.com/watch?v=xT8-LR_7mRM)
@@ -944,7 +1304,7 @@
   - [Scripts 1.12 - AWK : utiliser une variable bash dans awk](https://www.youtube.com/watch?v=aa-C-yz4zug)
   - [Scripts 1.13 - AWK : générer du SQL](https://www.youtube.com/watch?v=AangLDzSfLw)
 
-## CONSUL - DÉBUTER ET PLUS
+## TUTORIALS ET FORMATION CONSUL
   - [CONSUL - 1. INTRODUCTION ET NOTIONS](https://www.youtube.com/watch?v=Esfh2WT5VX0)
   - [CONSUL - 2. INSTALLATION DU SERVEUR](https://www.youtube.com/watch?v=RwYCsk7SGfY)
   - [CONSUL - 3. CREATION DU SERVICE SYSTEMD](https://www.youtube.com/watch?v=yixDzCzWs7A)
@@ -969,7 +1329,7 @@
 ## IPTABLES - DEBUTANT
   - [IPTABLES - 1. PRINCIPES ET NOTIONS](https://www.youtube.com/watch?v=ByTtN3pgnP0)
   - [IPTABLES - 2. OPTIONS ET CHAINES](https://www.youtube.com/watch?v=ZcxY_vx6pW4)
-  - [IPTABLES - 3. PREMIERES REGLES](https://www.youtube.com/watch?v=jxZ9qXtOt7o)
+  - [IPTABLES - 3. PREMIERES REGLES (EX: PING)](https://www.youtube.com/watch?v=jxZ9qXtOt7o)
   - [IpTables - 4. combinaison de règles | tutos fr](https://www.youtube.com/watch?v=0ufhJAUfvjE)
   - [IpTables - 5. sécuriser une machine (principes) | tutos fr](https://www.youtube.com/watch?v=VP_PP8Wma3Y)
   - [IpTables - 6. Load-Balancing avec un firewall ? | tutos fr](https://www.youtube.com/watch?v=OOPx7Rs0_U4)
@@ -1052,6 +1412,15 @@
   - [DTER - LES DESSOUS DE LA CHAINE](https://www.youtube.com/watch?v=U39UnHfDBAk)
   - [DTER - CONCOURS, BONNE FETE ANSIBLE !!!!](https://www.youtube.com/watch?v=ExhfI14K0ZE)
   - [DTER : SOUVERAINETE NUMERIQUE...](https://www.youtube.com/watch?v=Si3K8Rh_GyA)
+  - [DTER - FIN D'ANNEE, BURNOUT, ANSIBLE, A VENIR](https://www.youtube.com/watch?v=CB1Uda1Jye0)
+  - [Mon cluster k8s pédagogique !!!](https://www.youtube.com/watch?v=NllHCEvS_Ts)
+  - [20k... et après ??](https://www.youtube.com/watch?v=up1DSQLJz5Y)
+  - [Parcours & Formation Devops](https://www.youtube.com/watch?v=0J6hfg0pdtE)
+  - [Nos sources de motivations, veille...](https://www.youtube.com/watch?v=52EYCjnJwcY)
+  - [OVH, Discord...](https://www.youtube.com/watch?v=q_7l1m7eaCc)
+  - [Affaire OVH : le devops, les juges et les donneurs de leçon... L'approche](https://www.youtube.com/watch?v=REjCavnvqW4)
+  - [La Veille technologique, ssh, vimrc, 22k...](https://www.youtube.com/watch?v=IK_8rUYistg)
+  - [Mes entretiens d'embauches...](https://www.youtube.com/watch?v=pWY5DrRv6kc)
 
 ## DOCKER SWARM - DEBUTANT
   - [DOCKER-SWARM - 0. PLAY WITH DOCKER](https://www.youtube.com/watch?v=uQ5PpdVmaBw)
@@ -1142,8 +1511,8 @@
   - [ANSIBLE - 8. INSTALLER L'APPLICATIF WORDPRESS](https://www.youtube.com/watch?v=5baFDUQipBA)
   - [Ansible - Comment crypter et décrypter vos mots de passe avec vault ?](https://www.youtube.com/watch?v=EQgW4n2-goA)
 
-## DOCKER - DEBUTANT ET CONFIRME | TUTOS FR
-  - [DOCKER - PREMIERS PAS #1](https://www.youtube.com/watch?v=fdlZqRZXWOc)
+## TUTORIALS ET FORMATION DOCKER
+  - [Premier pas avec #Docker - 1](https://www.youtube.com/watch?v=fdlZqRZXWOc)
   - [🐋 DOCKER - 2. LANCER CONTENEUR EX. NGINX 🌐](https://www.youtube.com/watch?v=NJ2berxUmgg)
   - [DOCKER - 3. MONTER UN VOLUME PERSISTANT](https://www.youtube.com/watch?v=KjaiVP2p0C8)
   - [DOCKER - 4. DOCKER VOLUMES](https://www.youtube.com/watch?v=fNxHtOJsWSc)
